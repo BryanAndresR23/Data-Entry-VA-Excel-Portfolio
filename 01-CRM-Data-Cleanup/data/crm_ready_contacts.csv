@@ -1,0 +1,481 @@
+﻿Contact ID,First Name,Last Name,Job Title,Company,Email,Email Status,Phone,Phone (E.164),Ext,Mobile,Mobile (E.164),City,State,ZIP,Country,Lead Source,Created Date,Source Records,Notes
+C-0001,Rachel,Harris,Marketing Manager,Bright Wellness Studio,rharris@brightwellnessstudio.com,Valid,(602) 555-0146,+16025550146,,,,Phoenix,AZ,85038,US,Website Form,2026-08-09,"1, 55","Merged records #1, #55"
+C-0002,Victor,Green,Front Desk Lead,Harbor Family Health Center LLC,vgreen@harborfamilyhealthcenter.com,Valid,(503) 555-0197,+15035550197,,,,Portland,OR,97229,US,LinkedIn,2025-06-02,2,
+C-0003,Trevor,Baker,VP of Operations,Pacific Wellness Group LLC,tbaker@pacificwellnessgroup.com,Valid,(206) 555-0181,+12065550181,,,,Seattle,WA,98183,US,Trade Show,2025-05-01,3,
+C-0004,Lauren,Lee,Marketing Manager,Bright Dental Partners,laurenl@brightdentalpartners.com,Valid,(512) 555-0148,+15125550148,363,(512) 555-0191,+15125550191,Austin,TX,78780,US,Referral,2025-04-16,4,
+C-0005,Grace,O'Brien,Operations Coordinator,Crescent Vision Group LLC,grace.obrien@crescentvisiongroup.com,Valid,(312) 555-0167,+13125550167,,,,Chicago,IL,60607,US,Referral,2025-10-15,5,
+C-0006,Adrian,Thompson,Marketing Manager,Cedar Physio Center LLC,adrian.thompson@cedarphysiocenter.com,Valid,(973) 555-0177,+19735550177,,,,Newark,NJ,07152,US,Google Ads,2026-05-13,"6, 234","Merged records #234, #6"
+C-0007,Chloe,Lee,Front Desk Lead,Willow Care Group Inc.,chloel@willowcaregroup.com,Valid,(212) 555-0115,+12125550115,,,,New York,NY,10044,US,Cold Outreach,2026-03-16,7,
+C-0008,Rachel,Hall,VP of Operations,Evergreen Ortho Studio LLC,rachel.hall@evergreenorthostudio.com,Valid,(206) 555-0185,+12065550185,,(206) 555-0159,+12065550159,Seattle,WA,98169,US,Referral,2025-03-18,"8, 30","Merged records #8, #30"
+C-0009,Susan,Wilson,Marketing Coordinator,Silver Smile Center LLC,susan.wilson@silversmilecenter.com,Valid,(212) 555-0101,+12125550101,,(212) 555-0198,+12125550198,New York,NY,10098,US,Trade Show,2025-09-12,"9, 57","Merged records #9, #57"
+C-0010,Emily,Wright,Owner,Cedar Ortho Partners,emily.wright@cedarorthopartners.com,Valid,,,,(305) 555-0182,+13055550182,Miami,FL,33149,US,Referral,2026-01-16,10,
+C-0011,Ana,Martinez,Regional Director,Evergreen Dental Collective Inc.,ana.martinez@evergreendentalcollective.com,Valid,(212) 555-0133,+12125550133,336,,,New York,NY,10064,US,Trade Show,2025-07-10,11,
+C-0012,Daniel,Ross,Billing Manager,Cedar Smile Studio,daniel.ross@cedarsmilestudio.com,Valid,(973) 555-0189,+19735550189,,(973) 555-0103,+19735550103,Newark,NJ,07130,US,Google Ads,2025-06-13,"12, 300","Merged records #300, #12"
+C-0013,Priya,Price,Operations Coordinator,Cedar Dental Partners LLC,priyap@cedardentalpartners.com,Valid,,,,,,Denver,CO,80271,US,Trade Show,2025-02-19,13,No phone on file
+C-0014,Colin,Sullivan,Senior Marketing Manager,River Smile Partners Inc.,csullivan@riversmilepartners.com,Valid,(503) 555-0189,+15035550189,,,,Portland,OR,97253,US,Cold Outreach,2026-05-11,14,
+C-0015,Derek,Jones,CEO,Silver Vision Collective,derek.jones@silvervisioncollective.com,Valid,(303) 555-0191,+13035550191,,(303) 555-0111,+13035550111,Denver,CO,80240,US,Google Ads,2025-12-23,15,
+C-0016,Nathan,Flores,Front Desk Lead,Oak Dental Group,nathan.flores@oakdentalgroup.com,Valid,(602) 555-0131,+16025550131,,,,Phoenix,AZ,85010,US,Cold Outreach,2026-04-04,"16, 297","Merged records #297, #16"
+C-0017,Megan,Brooks,Operations Coordinator,Cedar Care Center,mbrooks@cedarcarecenter.com,Valid,(512) 555-0175,+15125550175,,(512) 555-0110,+15125550110,Austin,TX,78795,US,LinkedIn,2025-08-16,17,
+C-0018,Linda,Lee,Chief Operating Officer,Golden Physio Collective,lindalgoldenphysiocollective.com,Invalid - verify with client,(404) 555-0169,+14045550169,,,,Atlanta,GA,30328,US,Referral,2025-02-22,18,Email needs verification
+C-0019,Derek,Green,VP of Operations,Summit Dental Collective,dgreen@summitdentalcollective.com,Valid,(602) 555-0132,+16025550132,,,,Phoenix,AZ,85092,US,Website Form,2025-08-23,19,
+C-0020,Robert,Smith,Chief Operating Officer,Sunrise Vision Associates LLC,robert.smith@sunrisevisionassociates.com,Valid,(860) 555-0113,+18605550113,,,,Hartford,CT,06182,US,Cold Outreach,2026-06-22,"20, 194","Merged records #194, #20"
+C-0021,Nancy,Sullivan,Front Desk Lead,Cedar Physio Partners LLC,nancy.sullivan@cedarphysiopartners.com,Valid,,,,(404) 555-0186,+14045550186,Atlanta,GA,30356,US,Trade Show,2025-10-17,21,
+C-0022,Kevin,Allen,VP of Operations,Evergreen Vision Partners Inc.,kevin.allen@evergreenvisionpartners.com,Valid,(860) 555-0154,+18605550154,,(860) 555-0116,+18605550116,Hartford,CT,06120,US,LinkedIn,2025-04-07,22,
+C-0023,Brooke,Hill,Senior Marketing Manager,Golden Ortho Partners,brooke.hill@goldenorthopartners.com,Valid,(404) 555-0146,+14045550146,,(404) 555-0193,+14045550193,Atlanta,GA,30359,US,Cold Outreach,2026-06-08,23,
+C-0024,Susan,Brooks,Marketing Coordinator,North Vision Collective Inc.,sbrooks@northvisioncollective.com,Valid,(602) 555-0130,+16025550130,,,,Phoenix,AZ,85010,US,Referral,2025-06-21,"24, 240","Merged records #240, #24"
+C-0025,Megan,Thompson,Operations Coordinator,Cedar Physio Center LLC,megant@cedarphysiocenter.com,Valid,,,,(973) 555-0185,+19735550185,Newark,NJ,07154,US,LinkedIn,2025-12-24,25,
+C-0026,Hiroshi,Rodriguez,Regional Director,Pine Ortho Collective Inc.,hrodriguez@pineorthocollective.com,Valid,(303) 555-0121,+13035550121,,(303) 555-0160,+13035550160,Denver,CO,80269,US,LinkedIn,2026-07-17,26,
+C-0027,Rachel,Patel,VP of Operations,Summit Dental Collective,rachelp@summitdentalcollective.com,Valid,(602) 555-0157,+16025550157,,,,Phoenix,AZ,85081,US,Cold Outreach,2025-11-28,"27, 212","Merged records #212, #27"
+C-0028,Tyler,Moore,Regional Director,Golden Vision Center LLC,tyler.moore@goldenvisioncenter.com,Valid,,,,,,Atlanta,GA,30308,US,Website Form,2025-03-30,28,No phone on file
+C-0029,Jason,Lewis,Director of Operations,Sunrise Family Health Associates,jlewis@sunrisefamilyhealthassociates.com,Valid,(312) 555-0131,+13125550131,,,,Chicago,IL,60621,US,Referral,2025-10-04,29,
+C-0030,Patricia,Roberts,Marketing Manager,River Smile Partners Inc.,proberts@riversmilepartners.com,Valid,(503) 555-0161,+15035550161,,(503) 555-0175,+15035550175,Portland,OR,97256,US,Website Form,2025-01-10,31,
+C-0031,Kevin,Allen,VP of Operations,River Smile Partners Inc.,kevin.allen@riversmilepartners.com,Valid,(503) 555-0180,+15035550180,,,,Portland,OR,97287,US,Trade Show,2025-08-12,32,
+C-0032,Kevin,Patel,Operations Coordinator,Pacific Smile Associates Inc.,kevinp@pacificsmileassociates.com,Valid,(305) 555-0110,+13055550110,,(305) 555-0184,+13055550184,Miami,FL,33156,US,Trade Show,2025-10-08,33,
+C-0033,Steven,Baker,Front Desk Lead,Harbor Smile Studio Inc.,sbaker@harborsmilestudio.com,Valid,,,,(512) 555-0142,+15125550142,Austin,TX,78784,US,LinkedIn,2026-08-23,34,
+C-0034,Julia,Martinez,Senior Marketing Manager,Maple Family Health Studio,juliam@maplefamilyhealthstudio.com,Valid,(305) 555-0175,+13055550175,,,,Miami,FL,33182,US,Website Form,2025-11-15,"35, 177","Merged records #177, #35"
+C-0035,Wei,Adams,Billing Manager,Willow Smile Studio LLC,wadams@willowsmilestudio.com,Valid,(206) 555-0149,+12065550149,,(206) 555-0164,+12065550164,Seattle,WA,98119,US,Cold Outreach,2025-04-10,"36, 458, 543","Merged records #458, #36, #543"
+C-0036,Victor,Robinson,Office Manager,Maple Smile Group Inc.,victor.robinson@maplesmilegroup.com,Valid,(512) 555-0169,+15125550169,,(512) 555-0170,+15125550170,Austin,TX,78759,US,Google Ads,2025-08-04,37,
+C-0037,Ryan,Thomas,CEO,North Physio Collective LLC,ryan.thomas@northphysiocollective.com,Valid,(305) 555-0180,+13055550180,,(305) 555-0197,+13055550197,Miami,FL,33188,US,Google Ads,2025-10-07,38,
+C-0038,David,Green,Chief Operating Officer,Sunrise Wellness Center,davidg@sunrisewellnesscenter.com,Valid,(310) 555-0184,+13105550184,,(310) 555-0113,+13105550113,Los Angeles,CA,90047,US,Website Form,2025-10-14,39,
+C-0039,Ana,Hayes,Director of Operations,Pine Ortho Center LLC,ana.hayes@pineorthocenter.com,Valid,,,,,,Los Angeles,CA,90008,US,LinkedIn,2026-06-04,40,No phone on file
+C-0040,Ethan,Garcia,VP of Marketing,Sunrise Vision Associates LLC,ethan.garcia@sunrisevisionassociates.com,Valid,(860) 555-0123,+18605550123,,(860) 555-0158,+18605550158,Hartford,CT,06188,US,Trade Show,2026-03-09,41,
+C-0041,Hiroshi,O'Brien,VP of Marketing,Harbor Wellness Center Inc.,hobrien@harborwellnesscenter.com,Valid,(503) 555-0166,+15035550166,,(503) 555-0181,+15035550181,Portland,OR,97206,US,Google Ads,2025-08-13,"42, 330","Merged records #330, #42"
+C-0042,Ana,Williams,Front Desk Lead,River Wellness Associates,ana.williams@riverwellnessassociates.com,Valid,(310) 555-0125,+13105550125,,,,Los Angeles,CA,90059,US,Google Ads,2025-01-10,43,
+C-0043,Karen,Hayes,Senior Marketing Manager,Blue Ortho Partners Inc.,karenh@blueorthopartners.com,Valid,(512) 555-0118,+15125550118,,,,Austin,TX,78786,US,Trade Show,2026-05-18,"44, 332","Merged records #44, #332"
+C-0044,Lauren,Hall,Regional Director,Willow Physio Partners,laurenh@willowphysiopartners.com,Valid,(404) 555-0198,+14045550198,,,,Atlanta,GA,30364,US,Referral,2026-05-27,"45, 235","Merged records #235, #45"
+C-0045,Ashley,Jones,Senior Marketing Manager,River Wellness Associates,ashleyj@riverwellnessassociates.com,Valid,(310) 555-0101,+13105550101,,,,Los Angeles,CA,90055,US,LinkedIn,2026-10-14,46,
+C-0046,Aisha,Campbell,Marketing Manager,Cedar Care Center,aisha.campbell@cedarcarecenter.com,Valid,(512) 555-0102,+15125550102,,(512) 555-0123,+15125550123,Austin,TX,78798,US,Trade Show,2025-07-17,47,
+C-0047,Karen,Scott,Regional Director,River Wellness Center,kscott@riverwellnesscenter.com,Valid,(860) 555-0155,+18605550155,,(860) 555-0138,+18605550138,Hartford,CT,06146,US,LinkedIn,2025-09-11,48,
+C-0048,Eric,Allen,Operations Coordinator,Silver Ortho Group,,Missing,(212) 555-0120,+12125550120,,(212) 555-0136,+12125550136,New York,NY,10043,US,Google Ads,2026-09-06,49,No email on file
+C-0049,Nancy,Wood,VP of Marketing,Lakeside Family Health Associates LLC,nancy.wood@lakesidefamilyhealthassociates.com,Valid,(212) 555-0156,+12125550156,,(212) 555-0152,+12125550152,New York,NY,10001,US,Website Form,2026-06-21,50,
+C-0050,Ashley,Campbell,Marketing Coordinator,Willow Smile Studio LLC,,Missing,(206) 555-0153,+12065550153,,,,Seattle,WA,98153,US,Google Ads,2025-04-13,"51, 321, 563","Merged records #321, #51, #563; No email on file"
+C-0051,Carlos,Anderson,Marketing Coordinator,Harbor Physio Collective Inc.,carlos.anderson@harborphysiocollective.com,Valid,(214) 555-0101,+12145550101,396,(214) 555-0124,+12145550124,Dallas,TX,75261,US,Referral,2026-09-12,52,
+C-0052,Omar,Nelson,Owner,Golden Vision Center LLC,omarn@goldenvisioncenter.com,Valid,(404) 555-0130,+14045550130,,(404) 555-0184,+14045550184,Atlanta,GA,30338,US,LinkedIn,2025-03-05,53,
+C-0053,Megan,Torres,Regional Director,Harbor Vision Collective,megan.torres@harborvisioncollective.com,Valid,(602) 555-0185,+16025550185,,(602) 555-0117,+16025550117,Phoenix,AZ,85031,US,Website Form,2025-09-26,54,
+C-0054,Sarah,Brown,Office Manager,Cedar Physio Partners LLC,sarahb@cedarphysiopartners.com,Valid,,,,(404) 555-0129,+14045550129,Atlanta,GA,30312,US,Trade Show,2025-12-06,"56, 220, 322","Merged records #56, #220, #322"
+C-0055,Kevin,Chen,Regional Director,Blue Ortho Partners Inc.,kevin.chen@blueorthopartners.com,Valid,(512) 555-0172,+15125550172,362,,,Austin,TX,78738,US,Google Ads,2026-02-18,58,
+C-0056,Nathan,Thomas,Marketing Manager,Pacific Wellness Collective Inc.,nathan.thomas@pacificwellnesscollective.com,Valid,(206) 555-0189,+12065550189,,,,Seattle,WA,98151,US,Google Ads,2025-12-18,59,
+C-0057,Natalie,Jackson,Operations Coordinator,Evergreen Care Center Inc.,nataliej@evergreencarecenter.com,Valid,(973) 555-0169,+19735550169,,,,Newark,NJ,07146,US,Cold Outreach,2025-03-22,60,
+C-0058,Diego,Robinson,Chief Operating Officer,Golden Ortho Partners,drobinson@goldenorthopartners.com,Valid,(404) 555-0127,+14045550127,,,,Atlanta,GA,30327,US,Cold Outreach,2026-06-29,61,
+C-0059,Kevin,Allen,CEO,Harbor Wellness Group Inc.,kevin.allen@harborwellnessgroup.com,Valid,(305) 555-0115,+13055550115,,,,Miami,FL,33139,US,Trade Show,2025-09-30,"62, 238, 423","Merged records #62, #423, #238"
+C-0060,Natalie,Green,Practice Manager,Oak Care Partners Inc.,natalieg@oakcarepartners.com,Valid,(206) 555-0165,+12065550165,,(206) 555-0192,+12065550192,Seattle,WA,98182,US,Referral,2026-04-14,63,
+C-0061,Natalie,Jackson,VP of Operations,Willow Dental Collective,njackson@willowdentalcollective.com,Valid,,,,(212) 555-0193,+12125550193,New York,NY,10080,US,Website Form,2025-03-20,64,
+C-0062,Sarah,White,Operations Coordinator,Pacific Wellness Group LLC,sarah.white@pacificwellnessgroup.com,Valid,(206) 555-0128,+12065550128,,,,Seattle,WA,98130,US,Website Form,2026-04-17,65,
+C-0063,Daniel,O'Brien,Operations Coordinator,North Physio Associates LLC,dobrien@northphysioassociates.com,Valid,(303) 555-0133,+13035550133,,,,Denver,CO,80204,US,Cold Outreach,2026-08-10,"66, 328","Merged records #328, #66"
+C-0064,Andrew,Anderson,VP of Marketing,Golden Physio Collective,andrew.anderson@goldenphysiocollective.com,Valid,(404) 555-0197,+14045550197,,,,Atlanta,GA,30353,US,LinkedIn,2025-03-26,"67, 342","Merged records #67, #342"
+C-0065,Diego,Johnson,Operations Coordinator,River Family Health Group Inc.,diego.johnson@riverfamilyhealthgroup.com,Valid,(303) 555-0184,+13035550184,246,(303) 555-0182,+13035550182,Denver,CO,80223,US,Website Form,2025-09-25,68,
+C-0066,James,McKenzie,Regional Director,Lakeside Smile Partners Inc.,james.mckenzie@lakesidesmilepartners.com,Valid,(503) 555-0199,+15035550199,,,,Portland,OR,97281,US,Google Ads,2026-01-13,"69, 102, 431","Merged records #431, #102, #69"
+C-0067,Marcus,Brooks,CEO,Maple Smile Group Inc.,mbrooks@maplesmilegroup.com,Valid,(512) 555-0188,+15125550188,,,,Austin,TX,78701,US,Trade Show,2025-10-28,70,
+C-0068,Tyler,Hayes,Billing Manager,Crescent Ortho Center LLC,tyler.hayes@crescentorthocenter.com,Valid,(973) 555-0193,+19735550193,,(973) 555-0144,+19735550144,Newark,NJ,07149,US,Referral,2026-07-27,71,
+C-0069,Diego,Chen,Chief Operating Officer,North Vision Studio,dchen@northvisionstudio.com,Valid,,,,,,Los Angeles,CA,90061,US,Cold Outreach,2026-05-13,72,No phone on file
+C-0070,Hiroshi,Lee,Front Desk Lead,Harbor Family Health Center LLC,hiroshil@harborfamilyhealthcenter.com,Valid,(503) 555-0164,+15035550164,,,,Portland,OR,97219,US,Referral,2026-10-03,73,
+C-0071,Ashley,Scott,Senior Marketing Manager,Cedar Physio Partners LLC,ashleys@cedarphysiopartners.com,Valid,(404) 555-0170,+14045550170,,(404) 555-0120,+14045550120,Atlanta,GA,30395,US,Google Ads,2025-04-04,"74, 85","Merged records #74, #85"
+C-0072,Ana,Hayes,Operations Coordinator,Crescent Vision Group LLC,ana.hayes@crescentvisiongroup.com,Valid,,,,(312) 555-0184,+13125550184,Chicago,IL,60675,US,Website Form,2025-12-12,75,
+C-0073,Natalie,King,Billing Manager,Oak Dental Studio LLC,nataliek@oakdentalstudio.com,Valid,(303) 555-0122,+13035550122,,,,Denver,CO,80268,US,Trade Show,2026-04-23,76,
+C-0074,Daniel,Price,Senior Marketing Manager,Blue Dental Center Inc.,danielp@bluedentalcenter.com,Valid,(512) 555-0155,+15125550155,73,,,Austin,TX,78766,US,Referral,2025-11-09,"77, 115, 493","Merged records #115, #77, #493"
+C-0075,Marcus,Wood,Director of Operations,Willow Ortho Studio Inc.,marcusw@willoworthostudio.com,Valid,(214) 555-0128,+12145550128,419,,,Dallas,TX,75254,US,Trade Show,2026-07-09,78,
+C-0076,Kevin,Williams,Regional Director,Sunrise Family Health Associates,kevinw@sunrisefamilyhealthassociates.com,Valid,(312) 555-0126,+13125550126,,,,Chicago,IL,60600,US,Website Form,2025-04-03,79,
+C-0077,Emily,Lewis,Practice Manager,Cedar Care Center,emily.lewis@cedarcarecenter.com,Valid,(512) 555-0181,+15125550181,,(512) 555-0121,+15125550121,Austin,TX,78755,US,Google Ads,2025-12-07,80,
+C-0078,Susan,Robinson,Front Desk Lead,Golden Vision Center LLC,susan.robinson@goldenvisioncenter.com,Valid,(404) 555-0188,+14045550188,,,,Atlanta,GA,30341,US,Trade Show,2025-10-16,81,
+C-0079,Vanessa,Anderson,Operations Coordinator,River Dental Collective LLC,vanessa.anderson@riverdentalcollective.com,Valid,(214) 555-0129,+12145550129,,(214) 555-0158,+12145550158,Dallas,TX,75212,US,LinkedIn,2026-03-15,82,
+C-0080,Tyler,Hall,VP of Marketing,Harbor Vision Collective,tylerh@harborvisioncollective.com,Valid,(602) 555-0103,+16025550103,,(602) 555-0181,+16025550181,Phoenix,AZ,85060,US,Website Form,2025-11-13,83,
+C-0081,Ryan,Clark,Practice Manager,Lakeside Vision Studio Inc.,Rclarklakesidevisionstudio.com,Invalid - verify with client,(512) 555-0133,+15125550133,186,(512) 555-0185,+15125550185,Austin,TX,78769,US,Trade Show,2026-08-28,84,Email needs verification
+C-0082,Camila,Foster,VP of Operations,Silver Smile Center LLC,camilaf@silversmilecenter.com,Valid,(212) 555-0185,+12125550185,,(212) 555-0130,+12125550130,New York,NY,10079,US,Referral,2025-02-11,86,
+C-0083,Victor,Chen,Marketing Manager,Willow Smile Center Inc.,victorc@willowsmilecenter.com,Valid,(206) 555-0125,+12065550125,,(206) 555-0169,+12065550169,Seattle,WA,98134,US,Referral,2025-03-16,87,
+C-0084,Brooke,Garcia,Marketing Coordinator,Evergreen Smile Studio LLC,bgarcia@evergreensmilestudio.com,Valid,(303) 555-0119,+13035550119,,,,Denver,CO,80254,US,Website Form,2025-10-24,88,
+C-0085,Sarah,Torres,Operations Coordinator,Summit Dental Group,saraht@summitdentalgroup.com,Valid,(305) 555-0185,+13055550185,,(305) 555-0148,+13055550148,Miami,FL,33187,US,LinkedIn,2026-07-21,89,
+C-0086,Ethan,White,Regional Director,Pacific Wellness Collective Inc.,ethan.white@pacificwellnesscollective.com,Valid,(206) 555-0145,+12065550145,,,,Seattle,WA,98122,US,Google Ads,2026-09-15,"90, 571","Merged records #90, #571"
+C-0087,Colin,Wood,Owner,Pacific Wellness Collective Inc.,colinw@pacificwellnesscollective.com,Valid,(206) 555-0101,+12065550101,31,,,Seattle,WA,98100,US,Cold Outreach,2026-09-04,91,
+C-0088,Michael,Martin,Regional Director,Cedar Smile Studio,michaelm@cedarsmilestudio.com,Valid,(973) 555-0125,+19735550125,,,,Newark,NJ,07145,US,Referral,2025-08-30,92,
+C-0089,Daniel,Wright,Marketing Coordinator,Pine Ortho Center LLC,danielw@pineorthocenter.com,Valid,(310) 555-0173,+13105550173,,(310) 555-0178,+13105550178,Los Angeles,CA,90031,US,Website Form,2025-10-01,93,
+C-0090,Marcus,Taylor,Regional Director,Lakeside Care Studio Inc.,marcus.taylor@lakesidecarestudio.com,Valid,(312) 555-0143,+13125550143,,,,Chicago,IL,60617,US,Trade Show,2026-09-10,94,
+C-0091,Megan,Jackson,Practice Manager,Summit Care Center LLC,meganj@summitcarecenter.com,Valid,,,,,,Chicago,IL,60685,US,Google Ads,2026-02-21,95,No phone on file
+C-0092,Jessica,Brooks,Owner,Crescent Ortho Center LLC,jessica.brooks@crescentorthocenter.com,Valid,(973) 555-0135,+19735550135,,,,Newark,NJ,07173,US,Referral,2025-04-08,96,
+C-0093,Aisha,Roberts,Marketing Manager,Willow Smile Center Inc.,aishar@willowsmilecenter.com,Valid,(206) 555-0119,+12065550119,,,,Seattle,WA,98176,US,Trade Show,2025-11-25,97,
+C-0094,Wei,Rodriguez,Marketing Coordinator,Oak Dental Group,weir@oakdentalgroup.com,Valid,(602) 555-0123,+16025550123,,(602) 555-0168,+16025550168,Phoenix,AZ,85022,US,Cold Outreach,2025-06-21,98,
+C-0095,Sofia,Wilson,Owner,Harbor Wellness Group Inc.,swilson@harborwellnessgroup.com,Valid,(305) 555-0149,+13055550149,,,,Miami,FL,33175,US,LinkedIn,2025-02-21,99,
+C-0096,Sarah,Miller,Director of Operations,River Wellness Center,smiller@riverwellnesscenter.com,Valid,(860) 555-0170,+18605550170,11,,,Hartford,CT,06154,US,Website Form,2025-10-30,100,
+C-0097,Mark,Williams,Office Manager,Silver Smile Center LLC,markw@silversmilecenter.com,Valid,(212) 555-0145,+12125550145,,,,New York,NY,10042,US,LinkedIn,2025-05-09,101,
+C-0098,Camila,Ross,Director of Operations,Golden Ortho Group Inc.,cross@goldenorthogroup.com,Valid,(503) 555-0145,+15035550145,,(503) 555-0134,+15035550134,Portland,OR,97287,US,Referral,2026-05-27,"103, 413","Merged records #413, #103"
+C-0099,Omar,Jones,Regional Director,Harbor Vision Collective,ojones@harborvisioncollective.com,Valid,,,,,,Phoenix,AZ,85059,US,Google Ads,2026-06-15,104,No phone on file
+C-0100,Joshua,Hayes,Office Manager,Lakeside Vision Partners LLC,,Missing,,,,(973) 555-0192,+19735550192,Newark,NJ,07136,US,Cold Outreach,2025-11-17,105,No email on file
+C-0101,Vanessa,Brooks,Owner,Silver Smile Center LLC,vanessab@silversmilecenter.com,Valid,(212) 555-0190,+12125550190,,(212) 555-0126,+12125550126,New York,NY,10084,US,Trade Show,2026-06-24,"106, 191","Merged records #106, #191"
+C-0102,Olivia,Allen,Marketing Manager,Harbor Family Health Center LLC,oliviaa@harborfamilyhealthcenter.com,Valid,(503) 555-0111,+15035550111,,(503) 555-0163,+15035550163,Portland,OR,97239,US,Trade Show,2026-01-17,107,
+C-0103,Joshua,Jackson,Marketing Manager,Maple Smile Group Inc.,joshua.jackson@maplesmilegroup.com,Valid,(512) 555-0131,+15125550131,,,,Austin,TX,78710,US,Google Ads,2025-02-03,"108, 411","Merged records #108, #411"
+C-0104,Mei,Campbell,Director of Operations,Evergreen Family Health Associates,mei.campbell@evergreenfamilyhealthassociates.com,Valid,(303) 555-0163,+13035550163,,,,Denver,CO,80245,US,LinkedIn,2025-12-16,"109, 561","Merged records #109, #561"
+C-0105,Marcus,Hill,Marketing Coordinator,Maple Family Health Studio,mhill@maplefamilyhealthstudio.com,Valid,(305) 555-0157,+13055550157,,(305) 555-0186,+13055550186,Miami,FL,33128,US,Google Ads,2026-07-30,110,
+C-0106,Hiroshi,Thompson,CEO,Crescent Care Collective,hthompson@crescentcarecollective.com,Valid,(214) 555-0160,+12145550160,,(214) 555-0138,+12145550138,Dallas,TX,75207,US,LinkedIn,2026-06-05,"111, 383","Merged records #383, #111"
+C-0107,Rachel,Anderson,Chief Operating Officer,Harbor Dental Studio LLC,rachel.anderson@harbordentalstudio.com,Valid,(973) 555-0140,+19735550140,,,,Newark,NJ,07144,US,Trade Show,2025-05-15,112,
+C-0108,Jennifer,Brooks,Front Desk Lead,Pine Care Partners,jennifer.brooks@pinecarepartners.com,Valid,(310) 555-0127,+13105550127,,,,Los Angeles,CA,90006,US,LinkedIn,2025-09-08,113,
+C-0109,Maria,Baker,Billing Manager,Lakeside Vision Studio Inc.,,Missing,(512) 555-0141,+15125550141,,,,Austin,TX,78749,US,Referral,2026-06-22,114,No email on file
+C-0110,Megan,Chen,Owner,River Care Studio Inc.,megan.chen@rivercarestudio.com,Valid,(860) 555-0176,+18605550176,,(860) 555-0151,+18605550151,Hartford,CT,06188,US,Trade Show,2026-07-12,"116, 204, 498","Merged records #116, #204, #498"
+C-0111,Luis,Smith,Regional Director,Crescent Wellness Associates LLC,lsmith@crescentwellnessassociates.com,Valid,,,,(305) 555-0105,+13055550105,Miami,FL,33146,US,Trade Show,2025-06-04,117,
+C-0112,Adrian,Jackson,Owner,Blue Dental Center Inc.,ajackson@bluedentalcenter.com,Valid,(512) 555-0100,+15125550100,47,(512) 555-0152,+15125550152,Austin,TX,78764,US,LinkedIn,2025-12-16,118,
+C-0113,Marcus,Flores,CEO,Maple Smile Group Inc.,mflores@maplesmilegroup.com,Valid,(512) 555-0140,+15125550140,,(512) 555-0114,+15125550114,Austin,TX,78765,US,Website Form,2026-07-11,119,
+C-0114,Ashley,Chen,Owner,Blue Dental Partners LLC,ashley.chen@bluedentalpartners.com,Valid,(512) 555-0196,+15125550196,,(512) 555-0177,+15125550177,Austin,TX,78705,US,Website Form,2025-02-10,120,
+C-0115,Natalie,Sullivan,Office Manager,Pine Care Partners,natalie.sullivan@pinecarepartners.com,Valid,(310) 555-0122,+13105550122,,(310) 555-0111,+13105550111,Los Angeles,CA,90028,US,Website Form,2026-06-25,121,
+C-0116,Lisa,Foster,Regional Director,Willow Care Group Inc.,lfoster@willowcaregroup.com,Valid,,,,(212) 555-0116,+12125550116,New York,NY,10009,US,Referral,2026-01-29,122,
+C-0117,Joshua,Thomas,Marketing Coordinator,Cedar Ortho Partners,joshuat@cedarorthopartners.com,Valid,(305) 555-0122,+13055550122,,(305) 555-0193,+13055550193,Miami,FL,33122,US,Google Ads,2025-01-03,"123, 208","Merged records #208, #123"
+C-0118,Grace,Hayes,Regional Director,Crescent Ortho Center LLC,grace.hayes@crescentorthocenter.com,Valid,(973) 555-0142,+19735550142,,(973) 555-0137,+19735550137,Newark,NJ,07160,US,Website Form,2026-10-13,124,
+C-0119,Daniel,Kim,VP of Operations,Willow Vision Partners LLC,danielk@willowvisionpartners.com,Valid,,,,(305) 555-0124,+13055550124,Miami,FL,33125,US,Website Form,2025-09-14,125,
+C-0120,Victor,Carter,Marketing Manager,Lakeside Vision Associates LLC,victor.carter@lakesidevisionassociates.com,Valid,(973) 555-0147,+19735550147,,,,Newark,NJ,07111,US,Google Ads,2026-09-27,126,
+C-0121,Wei,Lewis,Front Desk Lead,Golden Vision Center LLC,weil@goldenvisioncenter.com,Valid,(404) 555-0114,+14045550114,,(404) 555-0158,+14045550158,Atlanta,GA,30386,US,Google Ads,2025-11-02,127,
+C-0122,Derek,Kim,Operations Coordinator,Evergreen Ortho Studio LLC,derek.kim@evergreenorthostudio.com,Valid,(206) 555-0195,+12065550195,,(206) 555-0148,+12065550148,Seattle,WA,98183,US,Referral,2026-05-24,128,
+C-0123,Julia,Flores,Practice Manager,Crescent Vision Group LLC,julia.flores@crescentvisiongroup.com,Valid,(312) 555-0150,+13125550150,,(312) 555-0168,+13125550168,Chicago,IL,60686,US,Google Ads,2025-09-27,"129, 503","Merged records #129, #503"
+C-0124,Ashley,Torres,Marketing Manager,Blue Vision Collective,atorres@bluevisioncollective.com,Valid,(404) 555-0125,+14045550125,,,,Atlanta,GA,30303,US,LinkedIn,2026-07-23,130,
+C-0125,Julia,Martin,Director of Operations,Pine Ortho Collective Inc.,juliam@pineorthocollective.com,Valid,(303) 555-0152,+13035550152,,,,Denver,CO,80230,US,LinkedIn,2025-06-08,131,
+C-0126,Tyler,Scott,Regional Director,Pacific Wellness Collective Inc.,tylers@pacificwellnesscollective.com,Valid,(206) 555-0161,+12065550161,,(206) 555-0140,+12065550140,Seattle,WA,98173,US,LinkedIn,2026-05-19,132,
+C-0127,Adrian,Smith,Marketing Coordinator,Cedar Wellness Partners LLC,adrians@cedarwellnesspartners.com,Valid,(206) 555-0109,+12065550109,40,(206) 555-0144,+12065550144,Seattle,WA,98108,US,Trade Show,2025-02-03,"133, 356","Merged records #356, #133"
+C-0128,Michael,Chen,Regional Director,Crescent Vision Group LLC,michaelc@crescentvisiongroup.com,Valid,(312) 555-0154,+13125550154,,,,Chicago,IL,60636,US,LinkedIn,2026-07-16,134,
+C-0129,Luis,Walker,Front Desk Lead,Cedar Dental Partners LLC,lwalker@cedardentalpartners.com,Valid,(303) 555-0145,+13035550145,,,,Denver,CO,80241,US,Trade Show,2025-01-14,135,
+C-0130,Sofia,Hall,VP of Operations,Cedar Physio Partners LLC,sofiah@cedarphysiopartners.com,Valid,(404) 555-0101,+14045550101,,,,Atlanta,GA,30349,US,Cold Outreach,2026-03-08,136,
+C-0131,Ryan,King,Billing Manager,Crescent Care Associates,ryank@crescentcareassociates.com,Valid,(512) 555-0105,+15125550105,,(512) 555-0173,+15125550173,Austin,TX,78777,US,Trade Show,2026-05-30,"137, 206","Merged records #206, #137"
+C-0132,Eric,Davis,Senior Marketing Manager,River Care Studio Inc.,edavis@rivercarestudio.com,Valid,(860) 555-0128,+18605550128,,(860) 555-0145,+18605550145,Hartford,CT,06137,US,Cold Outreach,2026-06-20,138,
+C-0133,Luis,King,Regional Director,Summit Dental Collective,luis.king@summitdentalcollective.com,Valid,,,,(602) 555-0164,+16025550164,Phoenix,AZ,85030,US,Referral,2026-08-22,139,
+C-0134,Daniel,Green,Office Manager,North Care Partners,daniel.green@northcarepartners.com,Valid,(602) 555-0187,+16025550187,411,,,Phoenix,AZ,85058,US,Website Form,2025-05-09,140,
+C-0135,Brooke,Garcia,Marketing Coordinator,Cedar Smile Studio,brooke.garcia@cedarsmilestudio.com,Valid,(973) 555-0178,+19735550178,344,,,Newark,NJ,07121,US,Cold Outreach,2026-03-22,141,
+C-0136,Olivia,Scott,CEO,Lakeside Care Studio Inc.,olivia.scott@lakesidecarestudio.com,Valid,(312) 555-0171,+13125550171,,,,Chicago,IL,60636,US,Website Form,2026-08-12,142,
+C-0137,Steven,Rodriguez,Senior Marketing Manager,Pine Dental Center,srodriguez@pinedentalcenter.com,Valid,(512) 555-0157,+15125550157,,,,Austin,TX,78701,US,Trade Show,2025-05-21,143,
+C-0138,Trevor,Nguyen,Chief Operating Officer,Bright Dental Partners,,Missing,(512) 555-0162,+15125550162,,(512) 555-0124,+15125550124,Austin,TX,78712,US,Referral,2026-07-06,144,No email on file
+C-0139,Derek,Miller,VP of Operations,Evergreen Family Health Associates,derekm@evergreenfamilyhealthassociates.com,Valid,,,,(303) 555-0188,+13035550188,Denver,CO,80272,US,Trade Show,2025-10-06,145,
+C-0140,Jason,Clark,Regional Director,Cedar Vision Associates LLC,jclark@cedarvisionassociates.com,Valid,(860) 555-0129,+18605550129,,,,Hartford,CT,06148,US,LinkedIn,2026-08-28,"146, 277","Merged records #146, #277"
+C-0141,Omar,Hayes,Front Desk Lead,Willow Physio Partners,ohayes@willowphysiopartners.com,Valid,(404) 555-0102,+14045550102,,(404) 555-0174,+14045550174,Atlanta,GA,30337,US,Referral,2025-07-21,147,
+C-0142,Vanessa,Brooks,VP of Operations,Lakeside Smile Partners Inc.,vbrooks@lakesidesmilepartners.com,Valid,(503) 555-0125,+15035550125,,(503) 555-0172,+15035550172,Portland,OR,97258,US,Referral,2025-11-21,148,
+C-0143,Maria,Nelson,VP of Marketing,Cedar Dental Partners LLC,marian@cedardentalpartners.com,Valid,,,,(303) 555-0123,+13035550123,Denver,CO,80289,US,LinkedIn,2025-12-15,149,
+C-0144,Omar,Green,VP of Marketing,Sunrise Dental Group LLC,omarg@sunrisedentalgroup.com,Valid,(973) 555-0122,+19735550122,,,,Newark,NJ,07186,US,Cold Outreach,2026-05-16,150,
+C-0145,Steven,Davis,Senior Marketing Manager,North Ortho Studio,sdavis@northorthostudio.com,Valid,(602) 555-0177,+16025550177,,(602) 555-0133,+16025550133,Phoenix,AZ,85025,US,LinkedIn,2026-02-25,151,
+C-0146,Sarah,Brown,VP of Operations,Lakeside Care Studio Inc.,sarahb@lakesidecarestudio.com,Valid,(312) 555-0139,+13125550139,,(312) 555-0164,+13125550164,Chicago,IL,60690,US,LinkedIn,2025-05-02,152,
+C-0147,Ryan,Hall,Operations Coordinator,Harbor Wellness Center Inc.,rhall@harborwellnesscenter.com,Valid,(503) 555-0160,+15035550160,144,,,Portland,OR,97228,US,LinkedIn,2025-03-24,153,
+C-0148,David,Patel,Director of Operations,Crescent Wellness Associates LLC,dpatel@crescentwellnessassociates.com,Valid,(305) 555-0133,+13055550133,,,,Miami,FL,33170,US,Website Form,2025-06-11,154,
+C-0149,Vanessa,Rivera,Billing Manager,Lakeside Vision Partners LLC,vrivera@lakesidevisionpartners.com,Valid,(973) 555-0133,+19735550133,178,(973) 555-0150,+19735550150,Newark,NJ,07186,US,Cold Outreach,2026-01-26,155,
+C-0150,Lauren,Price,Regional Director,River Physio Studio LLC,lprice@riverphysiostudio.com,Valid,(503) 555-0108,+15035550108,,(503) 555-0104,+15035550104,Portland,OR,97290,US,Website Form,2025-09-09,"156, 185, 296","Merged records #296, #156, #185"
+C-0151,Linda,Hall,Senior Marketing Manager,Harbor Ortho Center,linda.hall@harbororthocenter.com,Valid,,,,,,Phoenix,AZ,85003,US,Cold Outreach,2025-10-15,"157, 339, 575","Merged records #157, #575, #339; No phone on file"
+C-0152,James,Thomas,Marketing Coordinator,North Vision Studio,james.thomas@northvisionstudio.com,Valid,(310) 555-0139,+13105550139,,,,Los Angeles,CA,90054,US,Trade Show,2025-12-25,158,
+C-0153,Linda,Miller,Marketing Coordinator,Harbor Wellness Center Inc.,linda.miller@harborwellnesscenter.com,Valid,(503) 555-0124,+15035550124,,(503) 555-0170,+15035550170,Portland,OR,97269,US,LinkedIn,2025-10-17,"159, 457","Merged records #159, #457"
+C-0154,Omar,Robinson,Marketing Manager,Willow Care Group Inc.,omarr@willowcaregroup.com,Valid,(212) 555-0177,+12125550177,,(212) 555-0178,+12125550178,New York,NY,10013,US,Trade Show,2025-05-26,160,
+C-0155,Joshua,Brown,Front Desk Lead,Blue Care Studio LLC,jbrown@bluecarestudio.com,Valid,(973) 555-0109,+19735550109,,(973) 555-0198,+19735550198,Newark,NJ,07150,US,LinkedIn,2025-02-01,"161, 568","Merged records #161, #568"
+C-0156,Robert,Wilson,Marketing Manager,Crescent Wellness Associates LLC,robert.wilson@crescentwellnessassociates.com,Valid,(305) 555-0166,+13055550166,,,,Miami,FL,33187,US,LinkedIn,2025-11-28,162,
+C-0157,Anthony,Lee,Owner,Crescent Vision Group LLC,anthonyl@crescentvisiongroup.com,Valid,(312) 555-0159,+13125550159,,,,Chicago,IL,60653,US,Cold Outreach,2026-06-28,163,
+C-0158,Lauren,Jones,Front Desk Lead,Willow Physio Partners,laurenj@willowphysiopartners.com,Valid,,,,,,Atlanta,GA,30384,US,Website Form,2025-07-04,164,No phone on file
+C-0159,Natalie,Johnson,Front Desk Lead,Sunrise Dental Group LLC,nataliej@sunrisedentalgroup.com,Valid,(973) 555-0116,+19735550116,,(973) 555-0114,+19735550114,Newark,NJ,07159,US,Google Ads,2025-09-21,165,
+C-0160,Susan,Garcia,Marketing Manager,North Vision Collective Inc.,susang@northvisioncollective.com,Valid,,,,,,Phoenix,AZ,85063,US,Cold Outreach,2025-05-28,166,No phone on file
+C-0161,Chloe,King,VP of Operations,River Care Studio Inc.,cking@rivercarestudio.com,Valid,(860) 555-0105,+18605550105,168,,,Hartford,CT,06165,US,Trade Show,2026-07-12,"167, 481","Merged records #481, #167"
+C-0162,Mei,McKenzie,Marketing Coordinator,Blue Dental Partners LLC,mei.mckenzie@bluedentalpartners.com,Valid,(512) 555-0165,+15125550165,,,,Austin,TX,78760,US,Website Form,2026-01-14,168,
+C-0163,Nathan,Price,Director of Operations,North Physio Collective LLC,nathanp@northphysiocollective.com,Valid,(305) 555-0109,+13055550109,377,,,Miami,FL,33142,US,Website Form,2025-04-01,"169, 340, 392","Merged records #169, #340, #392"
+C-0164,Julia,Lewis,Director of Operations,Crescent Vision Group LLC,julia.lewis@crescentvisiongroup.com,Valid,,,,,,Chicago,IL,60622,US,Referral,2026-08-31,170,No phone on file
+C-0165,Sarah,Lewis,VP of Marketing,Harbor Wellness Group Inc.,sarahl@harborwellnessgroup.com,Valid,(305) 555-0137,+13055550137,434,,,Miami,FL,33184,US,Trade Show,2025-10-10,171,
+C-0166,Eric,Allen,Front Desk Lead,Sunrise Wellness Collective Inc.,eric.allen@sunrisewellnesscollective.com,Valid,(860) 555-0104,+18605550104,79,,,Hartford,CT,06138,US,Website Form,2025-11-05,172,
+C-0167,Maria,Lewis,Senior Marketing Manager,Harbor Vision Group,mlewis@harborvisiongroup.com,Valid,(860) 555-0199,+18605550199,,,,Hartford,CT,06128,US,Google Ads,2025-08-01,173,
+C-0168,Jason,Scott,Regional Director,River Dental Collective LLC,jasons@riverdentalcollective.com,Valid,(214) 555-0188,+12145550188,,(214) 555-0191,+12145550191,Dallas,TX,75202,US,Website Form,2025-10-30,174,
+C-0169,Emily,Clark,CEO,Cedar Care Center,emilyc@cedarcarecenter.com,Valid,(512) 555-0178,+15125550178,,,,Austin,TX,78757,US,Referral,2025-07-04,175,
+C-0170,Priya,Garcia,Director of Operations,Summit Care Center LLC,priyag@summitcarecenter.com,Valid,(312) 555-0115,+13125550115,,(312) 555-0114,+13125550114,Chicago,IL,60618,US,Cold Outreach,2026-02-03,176,
+C-0171,Linda,Lopez,VP of Operations,Golden Ortho Group Inc.,linda.lopez@goldenorthogroup.com,Valid,(503) 555-0173,+15035550173,,,,Portland,OR,97249,US,Trade Show,2026-10-09,178,
+C-0172,Mark,McKenzie,Billing Manager,North Dental Group Inc.,mmckenzie@northdentalgroup.com,Valid,(602) 555-0108,+16025550108,,(602) 555-0193,+16025550193,Phoenix,AZ,85098,US,Cold Outreach,2025-12-08,179,
+C-0173,Nathan,Miller,Marketing Coordinator,North Dental Group Inc.,nmiller@northdentalgroup.com,Valid,,,,(602) 555-0195,+16025550195,Phoenix,AZ,85052,US,Website Form,2025-09-19,180,
+C-0174,Mark,O'Brien,Front Desk Lead,Sunrise Vision Associates LLC,mark.obrien@sunrisevisionassociates.com,Valid,(860) 555-0146,+18605550146,,(860) 555-0106,+18605550106,Hartford,CT,06146,US,Cold Outreach,2025-10-24,"181, 187","Merged records #181, #187"
+C-0175,Derek,Hernandez,Regional Director,River Wellness Center,derekh@riverwellnesscenter.com,Valid,,,,(860) 555-0112,+18605550112,Hartford,CT,06116,US,Google Ads,2025-09-23,182,
+C-0176,Chloe,Baker,CEO,Sunrise Vision Associates LLC,cbaker@sunrisevisionassociates.com,Valid,(860) 555-0120,+18605550120,,(860) 555-0188,+18605550188,Hartford,CT,06121,US,Google Ads,2026-03-26,183,
+C-0177,Vanessa,Foster,Marketing Manager,Blue Dental Center Inc.,vfoster@bluedentalcenter.com,Valid,(512) 555-0115,+15125550115,,,,Austin,TX,78794,US,Cold Outreach,2025-12-27,186,
+C-0178,Ana,McKenzie,Regional Director,Evergreen Smile Studio LLC,amckenzie@evergreensmilestudio.com,Valid,(303) 555-0155,+13035550155,,,,Denver,CO,80299,US,Referral,2026-08-17,"188, 537","Merged records #537, #188"
+C-0179,Andrew,Brooks,Marketing Manager,Cedar Smile Studio,andrew.brooks@cedarsmilestudio.com,Valid,(973) 555-0130,+19735550130,,,,Newark,NJ,07170,US,Google Ads,2025-09-19,189,
+C-0180,Ethan,Sullivan,Billing Manager,Cedar Care Center,esullivan@cedarcarecenter.com,Valid,(512) 555-0117,+15125550117,281,(512) 555-0182,+15125550182,Austin,TX,78772,US,Website Form,2026-09-18,"190, 474, 502","Merged records #190, #474, #502"
+C-0181,Kevin,Thompson,Senior Marketing Manager,North Vision Collective Inc.,kevint@northvisioncollective.com,Valid,(602) 555-0166,+16025550166,110,,,Phoenix,AZ,85081,US,Cold Outreach,2025-10-10,192,
+C-0182,Ashley,Moore,Billing Manager,River Smile Partners Inc.,amoore@riversmilepartners.com,Valid,(503) 555-0183,+15035550183,,(503) 555-0150,+15035550150,Portland,OR,97289,US,Referral,2026-03-17,"193, 284","Merged records #193, #284"
+C-0183,James,White,Office Manager,Harbor Dental Studio LLC,jamesw@harbordentalstudio.com,Valid,(973) 555-0191,+19735550191,310,(973) 555-0141,+19735550141,Newark,NJ,07190,US,Referral,2025-04-25,195,
+C-0184,Karen,Patel,Director of Operations,Sunrise Dental Group LLC,kpatel@sunrisedentalgroup.com,Valid,,,,,,Newark,NJ,07107,US,Google Ads,2025-10-31,"196, 317","Merged records #196, #317; No phone on file"
+C-0185,Anthony,O'Brien,Marketing Coordinator,North Care Partners,aobrien@northcarepartners.com,Valid,(602) 555-0121,+16025550121,,,,Phoenix,AZ,85048,US,Referral,2025-09-07,198,
+C-0186,Grace,Baker,Marketing Manager,Bright Dental Partners,gbaker@@brightdentalpartners.com,Invalid - verify with client,(512) 555-0154,+15125550154,,(512) 555-0190,+15125550190,Austin,TX,78796,US,Google Ads,2025-03-07,"199, 398","Merged records #398, #199; Email needs verification"
+C-0187,Anthony,Sullivan,Practice Manager,Maple Ortho Partners,anthonys@mapleorthopartners.com,Valid,,,,,,Austin,TX,78759,US,LinkedIn,2025-11-16,200,No phone on file
+C-0188,Jason,Brown,Billing Manager,Summit Vision Center,jbrown@summitvisioncenter.com,Valid,(973) 555-0179,+19735550179,,,,Newark,NJ,07106,US,Referral,2025-10-02,201,
+C-0189,Ana,Lewis,Front Desk Lead,Summit Dental Collective,Analsummitdentalcollective.com,Invalid - verify with client,(602) 555-0199,+16025550199,,(602) 555-0127,+16025550127,Phoenix,AZ,85062,US,Referral,2025-05-07,"202, 453","Merged records #202, #453; Email needs verification"
+C-0190,Hannah,Smith,Chief Operating Officer,Willow Dental Center LLC,hannahs@willowdentalcenter.com,Valid,(305) 555-0128,+13055550128,,,,Miami,FL,33113,US,Trade Show,2026-06-01,203,
+C-0191,Patricia,Flores,VP of Marketing,Pacific Wellness Group LLC,patricia.flores@pacificwellnessgroup.com,Valid,(206) 555-0137,+12065550137,,,,Seattle,WA,98131,US,Trade Show,2026-01-14,"205, 534","Merged records #534, #205"
+C-0192,Emily,Nelson,CEO,Crescent Ortho Center LLC,enelson@crescentorthocenter.com,Valid,(973) 555-0138,+19735550138,140,,,Newark,NJ,07137,US,LinkedIn,2025-05-04,209,
+C-0193,Carlos,Baker,Billing Manager,Cedar Smile Studio,carlosb@cedarsmilestudio.com,Valid,,,,,,Newark,NJ,07102,US,Trade Show,2026-08-21,"210, 241","Merged records #241, #210; No phone on file"
+C-0194,Michael,Green,Marketing Manager,Pine Ortho Center LLC,mgreen@pineorthocenter.com,Valid,(310) 555-0150,+13105550150,,(310) 555-0135,+13105550135,Los Angeles,CA,90003,US,Google Ads,2025-07-11,211,
+C-0195,Nancy,Bennett,Operations Coordinator,Lakeside Care Studio Inc.,nbennett@lakesidecarestudio.com,Valid,(312) 555-0107,+13125550107,281,(312) 555-0147,+13125550147,Chicago,IL,60652,US,Cold Outreach,2025-07-05,213,
+C-0196,Marcus,Clark,Front Desk Lead,Willow Care Group Inc.,marcus.clark@willowcaregroup.com,Valid,,,,(212) 555-0123,+12125550123,New York,NY,10016,US,Cold Outreach,2025-08-24,214,
+C-0197,Andrew,Carter,Chief Operating Officer,Willow Smile Studio LLC,acarter@willowsmilestudio.com,Valid,(206) 555-0126,+12065550126,,(206) 555-0112,+12065550112,Seattle,WA,98133,US,Referral,2026-07-17,215,
+C-0198,Ashley,Young,Regional Director,North Vision Studio,ashley.young@northvisionstudio.com,Valid,(310) 555-0149,+13105550149,,(310) 555-0123,+13105550123,Los Angeles,CA,90047,US,Cold Outreach,2025-10-02,216,
+C-0199,Daniel,Hall,VP of Operations,Harbor Wellness Center Inc.,danielh@harborwellnesscenter.com,Valid,(503) 555-0118,+15035550118,,(503) 555-0133,+15035550133,Portland,OR,97251,US,Cold Outreach,2026-08-02,217,
+C-0200,Linda,Moore,Front Desk Lead,Willow Ortho Studio Inc.,linda.moore@willoworthostudio.com,Valid,(214) 555-0108,+12145550108,,(214) 555-0109,+12145550109,Dallas,TX,75206,US,Referral,2025-06-03,"218, 475, 529","Merged records #218, #529, #475"
+C-0201,Sofia,McKenzie,Marketing Manager,Evergreen Smile Studio LLC,sofia.mckenzie@evergreensmilestudio.com,Valid,(303) 555-0148,+13035550148,,,,Denver,CO,80285,US,LinkedIn,2025-03-16,"219, 358","Merged records #358, #219"
+C-0202,Omar,Wright,Regional Director,Golden Physio Collective,owright@goldenphysiocollective.com,Valid,(404) 555-0199,+14045550199,44,(404) 555-0103,+14045550103,Atlanta,GA,30348,US,Google Ads,2025-08-15,221,
+C-0203,Ryan,Campbell,Operations Coordinator,Evergreen Dental Collective Inc.,ryan.campbell@evergreendentalcollective.com,Valid,(212) 555-0184,+12125550184,,(212) 555-0183,+12125550183,New York,NY,10048,US,Cold Outreach,2025-04-13,222,
+C-0204,Brian,Johnson,Regional Director,Lakeside Smile Studio LLC,brianj@lakesidesmilestudio.com,Valid,(305) 555-0132,+13055550132,,,,Miami,FL,33171,US,LinkedIn,2026-07-11,224,
+C-0205,Hannah,Wright,Office Manager,Harbor Dental Studio LLC,hannah.wright@harbordentalstudio.com,Valid,(973) 555-0182,+19735550182,,,,Newark,NJ,07116,US,Cold Outreach,2026-08-31,225,
+C-0206,Maria,McKenzie,CEO,Silver Smile Center LLC,mariam@silversmilecenter.com,Valid,(212) 555-0144,+12125550144,,(212) 555-0108,+12125550108,New York,NY,10005,US,Website Form,2025-09-12,226,
+C-0207,Susan,Flores,Front Desk Lead,Summit Care Partners LLC,susanf@summitcarepartners.com,Valid,(602) 555-0113,+16025550113,,,,Phoenix,AZ,85058,US,Google Ads,2026-03-15,227,
+C-0208,Aisha,McKenzie,VP of Marketing,Harbor Vision Group,aisham@harborvisiongroup.com,Valid,(860) 555-0152,+18605550152,243,(860) 555-0117,+18605550117,Hartford,CT,06179,US,Trade Show,2025-10-07,"228, 489","Merged records #228, #489"
+C-0209,Ryan,Torres,Front Desk Lead,Golden Ortho Group Inc.,ryan.torres@goldenorthogroup.com,Valid,(503) 555-0135,+15035550135,,,,Portland,OR,97215,US,Referral,2025-04-11,229,
+C-0210,Jessica,Robinson,Owner,Silver Ortho Group,jrobinson@silverorthogroup.com,Valid,(212) 555-0199,+12125550199,,(212) 555-0159,+12125550159,New York,NY,10039,US,LinkedIn,2026-01-05,230,
+C-0211,Aisha,Walker,Billing Manager,Bright Dental Associates Inc.,aishaw@@brightdentalassociates.com,Invalid - verify with client,(973) 555-0199,+19735550199,77,,,Newark,NJ,07182,US,Referral,2026-09-09,"231, 371","Merged records #371, #231; Email needs verification"
+C-0212,Diego,Lewis,Marketing Coordinator,Pine Ortho Center LLC,diego.lewis@pineorthocenter.com,Valid,,,,,,Los Angeles,CA,90030,US,Cold Outreach,2026-01-29,232,No phone on file
+C-0213,Michael,Flores,Marketing Coordinator,Silver Ortho Group,michaelf@silverorthogroup.com,Valid,(212) 555-0138,+12125550138,,,,New York,NY,10089,US,Google Ads,2025-06-29,233,
+C-0214,Ashley,King,Marketing Coordinator,North Care Partners,ashleyk@northcarepartners.com,Valid,(602) 555-0111,+16025550111,,(602) 555-0150,+16025550150,Phoenix,AZ,85067,US,Trade Show,2026-02-25,"236, 403, 541","Merged records #541, #236, #403"
+C-0215,Anthony,Nelson,Regional Director,Sunrise Wellness Collective Inc.,anthonyn@sunrisewellnesscollective.com,Valid,(860) 555-0183,+18605550183,,(860) 555-0110,+18605550110,Hartford,CT,06107,US,LinkedIn,2026-07-27,237,
+C-0216,James,Foster,Owner,Cedar Smile Studio,jfoster@cedarsmilestudio.com,Valid,(973) 555-0181,+19735550181,,(973) 555-0165,+19735550165,Newark,NJ,07185,US,Trade Show,2025-12-17,239,
+C-0217,Elizabeth,White,VP of Marketing,Crescent Physio Center LLC,ewhite@crescentphysiocenter.com,Valid,(404) 555-0118,+14045550118,,,,Atlanta,GA,30389,US,Google Ads,2026-02-07,242,
+C-0218,Colin,Nelson,Owner,Pacific Smile Partners LLC,colinn@pacificsmilepartners.com,Valid,,,,,,Dallas,TX,75224,US,Website Form,2025-09-06,243,No phone on file
+C-0219,Natalie,Walker,Owner,Crescent Ortho Center LLC,nataliew@crescentorthocenter.com,Valid,(973) 555-0123,+19735550123,,,,Newark,NJ,07192,US,Google Ads,2025-12-18,244,
+C-0220,Colin,Rodriguez,Chief Operating Officer,Summit Dental Collective,colinr@summitdentalcollective.com,Valid,(602) 555-0124,+16025550124,,,,Phoenix,AZ,85058,US,Google Ads,2025-09-22,245,
+C-0221,James,Lopez,Billing Manager,Blue Dental Center Inc.,jlopez@@bluedentalcenter.com,Invalid - verify with client,(512) 555-0151,+15125550151,,(512) 555-0194,+15125550194,Austin,TX,78711,US,Google Ads,2026-06-29,246,Email needs verification
+C-0222,Susan,Smith,CEO,River Care Studio Inc.,susans@rivercarestudio.com,Valid,(860) 555-0137,+18605550137,,,,Hartford,CT,06178,US,Google Ads,2026-02-21,247,
+C-0223,Diego,King,Front Desk Lead,Willow Wellness Center LLC,diego.king@willowwellnesscenter.com,Valid,(512) 555-0153,+15125550153,,(512) 555-0198,+15125550198,Austin,TX,78702,US,Cold Outreach,2026-01-26,248,
+C-0224,Eric,Lopez,Director of Operations,Cedar Ortho Studio Inc.,elopez@cedarorthostudio.com,Valid,,,,,,Miami,FL,33105,US,Trade Show,2025-03-23,249,No phone on file
+C-0225,Nancy,White,Practice Manager,Blue Dental Center Inc.,nancy.white@bluedentalcenter.com,Valid,(512) 555-0166,+15125550166,,(512) 555-0160,+15125550160,Austin,TX,78789,US,Trade Show,2025-11-24,250,
+C-0226,Adrian,Lewis,Operations Coordinator,Pine Care Partners,adrianl@pinecarepartners.com,Valid,(310) 555-0163,+13105550163,,(310) 555-0162,+13105550162,Los Angeles,CA,90056,US,Trade Show,2025-06-22,251,
+C-0227,Camila,Smith,VP of Operations,North Ortho Collective,camilas@northorthocollective.com,Valid,(602) 555-0128,+16025550128,70,,,Phoenix,AZ,85082,US,Referral,2026-05-27,252,
+C-0228,Jessica,Baker,Billing Manager,Sunrise Dental Group LLC,jessicab@sunrisedentalgroup.com,Valid,(973) 555-0186,+19735550186,,(973) 555-0190,+19735550190,Newark,NJ,07122,US,Cold Outreach,2026-07-11,253,
+C-0229,Mei,Jackson,Regional Director,Sunrise Wellness Collective Inc.,meij@sunrisewellnesscollective.com,Valid,(860) 555-0126,+18605550126,,(860) 555-0171,+18605550171,Hartford,CT,06171,US,Cold Outreach,2026-05-12,254,
+C-0230,Mark,King,Senior Marketing Manager,Sunrise Family Health Associates,mking@sunrisefamilyhealthassociates,Invalid - verify with client,(312) 555-0122,+13125550122,,,,Chicago,IL,60686,US,LinkedIn,2026-03-14,"255, 346","Merged records #255, #346; Email needs verification"
+C-0231,Joshua,Walker,Chief Operating Officer,Silver Smile Center LLC,joshua.walker@silversmilecenter.com,Valid,(212) 555-0113,+12125550113,,,,New York,NY,10063,US,LinkedIn,2026-02-16,256,
+C-0232,Wei,Roberts,Chief Operating Officer,Harbor Family Health Center LLC,wroberts@harborfamilyhealthcenter.com,Valid,(503) 555-0148,+15035550148,,,,Portland,OR,97285,US,Google Ads,2026-06-25,257,
+C-0233,Aisha,Johnson,Operations Coordinator,Willow Smile Studio LLC,ajohnson@willowsmilestudio.com,Valid,,,,,,Seattle,WA,98187,US,Website Form,2026-05-19,258,No phone on file
+C-0234,Julia,Torres,Front Desk Lead,Oak Care Partners Inc.,julia.torres@oakcarepartners.com,Valid,,,,,,Seattle,WA,98132,US,Google Ads,2026-03-31,"259, 500","Merged records #259, #500; No phone on file"
+C-0235,Robert,Clark,CEO,Pacific Wellness Collective Inc.,rclark@pacificwellnesscollective.com,Valid,(206) 555-0120,+12065550120,,(206) 555-0135,+12065550135,Seattle,WA,98185,US,Trade Show,2026-02-21,260,
+C-0236,Ashley,Jones,Operations Coordinator,Bright Vision Center LLC,ashleyj@brightvisioncenter.com,Valid,(214) 555-0164,+12145550164,,,,Dallas,TX,75205,US,Google Ads,2026-02-02,261,
+C-0237,Elizabeth,Green,Front Desk Lead,Pacific Smile Associates Inc.,elizabethg@pacificsmileassociates.com,Valid,(305) 555-0112,+13055550112,,,,Miami,FL,33136,US,Cold Outreach,2025-12-20,"262, 344","Merged records #262, #344"
+C-0238,David,O'Brien,Director of Operations,Maple Smile Group Inc.,david.obrien@maplesmilegroup.com,Valid,(512) 555-0171,+15125550171,,(512) 555-0163,+15125550163,Austin,TX,78780,US,Cold Outreach,2026-07-02,263,
+C-0239,Lisa,Young,Chief Operating Officer,Bright Vision Center LLC,lisay@brightvisioncenter.com,Valid,,,,(214) 555-0162,+12145550162,Dallas,TX,75296,US,Referral,2025-06-19,264,
+C-0240,Linda,Nguyen,Office Manager,Maple Wellness Partners LLC,lnguyen@maplewellnesspartners.com,Valid,,,,(860) 555-0185,+18605550185,Hartford,CT,06197,US,Website Form,2026-02-28,265,
+C-0241,Mei,Brown,Regional Director,Oak Dental Studio LLC,mbrown@oakdentalstudio.com,Valid,(303) 555-0120,+13035550120,,,,Denver,CO,80221,US,Website Form,2026-05-20,266,
+C-0242,Susan,McKenzie,VP of Marketing,Willow Ortho Studio Inc.,susanm@willoworthostudio.com,Valid,(214) 555-0105,+12145550105,309,(214) 555-0171,+12145550171,Dallas,TX,75232,US,Website Form,2025-12-06,267,
+C-0243,Grace,Allen,Director of Operations,Cedar Physio Center LLC,gallen@cedarphysiocenter.com,Valid,(973) 555-0159,+19735550159,,,,Newark,NJ,07181,US,LinkedIn,2026-03-09,268,
+C-0244,Omar,Flores,Director of Operations,Blue Vision Collective,omar.flores@bluevisioncollective.com,Valid,(404) 555-0190,+14045550190,,(404) 555-0128,+14045550128,Atlanta,GA,30364,US,Referral,2026-03-03,269,
+C-0245,Sofia,Wilson,VP of Marketing,Willow Care Group Inc.,sofiaw@willowcaregroup.com,Valid,(212) 555-0141,+12125550141,,,,New York,NY,10076,US,Cold Outreach,2025-06-15,270,
+C-0246,Ryan,Walker,CEO,Harbor Physio Collective Inc.,ryan.walker@harborphysiocollective.com,Valid,(214) 555-0147,+12145550147,,(214) 555-0141,+12145550141,Dallas,TX,75276,US,Website Form,2025-02-24,"271, 578","Merged records #578, #271"
+C-0247,Victor,Clark,Billing Manager,Bright Wellness Studio,victorc@brightwellnessstudio.com,Valid,,,,,,Phoenix,AZ,85010,US,Website Form,2025-09-13,272,No phone on file
+C-0248,Andrew,Lopez,Billing Manager,Golden Physio Collective,andrew.lopez@goldenphysiocollective.com,Valid,,,,(404) 555-0145,+14045550145,Atlanta,GA,30398,US,Google Ads,2026-10-22,273,
+C-0249,Omar,Johnson,CEO,Willow Dental Collective,ojohnson@willowdentalcollective.com,Valid,(212) 555-0135,+12125550135,,(212) 555-0121,+12125550121,New York,NY,10095,US,Trade Show,2026-07-18,274,
+C-0250,Carlos,Bennett,VP of Operations,Maple Ortho Partners,carlosb@mapleorthopartners.com,Valid,(512) 555-0161,+15125550161,,,,Austin,TX,78700,US,Google Ads,2026-03-19,275,
+C-0251,Andrew,Harris,Front Desk Lead,Pine Care Partners,andrewh@pinecarepartners.com,Valid,(310) 555-0198,+13105550198,,(310) 555-0144,+13105550144,Los Angeles,CA,90056,US,Cold Outreach,2025-05-31,276,
+C-0252,Lauren,Brooks,Senior Marketing Manager,Maple Ortho Partners,lbrooks@mapleorthopartners.com,Valid,(512) 555-0128,+15125550128,200,(512) 555-0134,+15125550134,Austin,TX,78715,US,Cold Outreach,2025-02-24,278,
+C-0253,Megan,Miller,Front Desk Lead,Cedar Care Center,meganm@cedarcarecenter.com,Valid,(512) 555-0116,+15125550116,,,,Austin,TX,78771,US,LinkedIn,2025-05-07,279,
+C-0254,Adrian,O'Brien,Senior Marketing Manager,Cedar Ortho Partners,adrian.obrien@cedarorthopartners.com,Valid,(305) 555-0116,+13055550116,,,,Miami,FL,33115,US,Website Form,2025-12-11,"280, 325","Merged records #280, #325"
+C-0255,Ethan,Robinson,Marketing Manager,Pacific Wellness Collective Inc.,ethan.robinson@pacificwellnesscollective.com,Valid,(206) 555-0173,+12065550173,,,,Seattle,WA,98150,US,Referral,2025-05-17,281,
+C-0256,Omar,Green,Marketing Coordinator,Pacific Smile Associates Inc.,omar.green@pacificsmileassociates.com,Valid,(305) 555-0121,+13055550121,,(305) 555-0191,+13055550191,Miami,FL,33135,US,LinkedIn,2025-05-19,282,
+C-0257,Kevin,Hill,Senior Marketing Manager,Silver Smile Center LLC,khill@silversmilecenter.com,Valid,(212) 555-0150,+12125550150,,,,New York,NY,10081,US,Referral,2025-11-03,283,
+C-0258,Colin,Foster,Senior Marketing Manager,Blue Dental Center Inc.,colin.foster@bluedentalcenter.com,Valid,(512) 555-0129,+15125550129,,,,Austin,TX,78701,US,Google Ads,2026-10-11,285,
+C-0259,Marcus,Kim,CEO,Maple Family Health Studio,mkim@maplefamilyhealthstudio.com,Valid,(305) 555-0162,+13055550162,324,,,Miami,FL,33155,US,Google Ads,2026-03-17,286,
+C-0260,Omar,Campbell,Office Manager,Evergreen Family Health Associates,ocampbell@evergreenfamilyhealthassociates.com,Valid,(303) 555-0161,+13035550161,,,,Denver,CO,80262,US,Referral,2025-03-07,287,
+C-0261,Omar,Hayes,Marketing Coordinator,Pacific Family Health Studio,omarh@pacificfamilyhealthstudio.com,Valid,(212) 555-0106,+12125550106,,,,New York,NY,10036,US,Referral,2026-09-15,288,
+C-0262,Linda,Allen,Practice Manager,Pacific Smile Associates Inc.,lallen@pacificsmileassociates.com,Valid,(305) 555-0143,+13055550143,,,,Miami,FL,33122,US,Website Form,2025-09-12,"289, 420","Merged records #289, #420"
+C-0263,Grace,Jones,Billing Manager,Willow Wellness Center LLC,gjones@willowwellnesscenter.com,Valid,(512) 555-0111,+15125550111,,,,Austin,TX,78742,US,Trade Show,2025-01-13,290,
+C-0264,Camila,Hernandez,Director of Operations,Maple Ortho Partners,camila.hernandez@mapleorthopartners.com,Valid,(512) 555-0159,+15125550159,,(512) 555-0180,+15125550180,Austin,TX,78784,US,Trade Show,2026-02-11,291,
+C-0265,Vanessa,Clark,Owner,Harbor Dental Studio LLC,vanessac@harbordentalstudio.com,Valid,,,,,,Newark,NJ,07115,US,LinkedIn,2025-03-28,292,No phone on file
+C-0266,Daniel,Carter,VP of Operations,Pine Ortho Collective Inc.,danielc@pineorthocollective.com,Valid,(303) 555-0180,+13035550180,,,,Denver,CO,80267,US,Google Ads,2026-10-18,293,
+C-0267,Emily,Carter,Owner,Crescent Ortho Center LLC,ecarter@crescentorthocenter.com,Valid,(973) 555-0174,+19735550174,,(973) 555-0170,+19735550170,Newark,NJ,07195,US,Cold Outreach,2025-12-06,"294, 494","Merged records #294, #494"
+C-0268,Mei,Scott,Office Manager,Willow Care Group Inc.,mscott@willowcaregroup.com,Valid,(212) 555-0119,+12125550119,,(212) 555-0168,+12125550168,New York,NY,10013,US,LinkedIn,2025-10-04,295,
+C-0269,James,Harris,Marketing Coordinator,Harbor Dental Studio LLC,james.harris@harbordentalstudio.com,Valid,(973) 555-0153,+19735550153,,,,Newark,NJ,07177,US,Referral,2026-05-16,"298, 525","Merged records #298, #525"
+C-0270,Jason,Brown,Marketing Manager,Bright Dental Partners,jason.brown@brightdentalpartners.com,Valid,(512) 555-0130,+15125550130,60,(512) 555-0147,+15125550147,Austin,TX,78791,US,Google Ads,2025-12-11,299,
+C-0271,Colin,Hall,Billing Manager,Golden Physio Collective,colin.hall@goldenphysiocollective.com,Valid,(404) 555-0179,+14045550179,438,(404) 555-0106,+14045550106,Atlanta,GA,30302,US,Website Form,2025-04-30,301,
+C-0272,Trevor,Miller,Front Desk Lead,Maple Smile Group Inc.,trevorm@maplesmilegroup.com,Valid,(512) 555-0104,+15125550104,,,,Austin,TX,78799,US,Website Form,2025-12-10,"302, 418","Merged records #418, #302"
+C-0273,Robert,Williams,VP of Operations,Silver Vision Collective,robert.williams@silvervisioncollective.com,Valid,,,,(303) 555-0130,+13035550130,Denver,CO,80268,US,Referral,2026-02-03,303,
+C-0274,Grace,Wood,CEO,North Vision Studio,gracew@northvisionstudio.com,Valid,(310) 555-0154,+13105550154,,(310) 555-0161,+13105550161,Los Angeles,CA,90010,US,LinkedIn,2026-09-06,305,
+C-0275,Steven,Torres,Marketing Manager,River Care Studio Inc.,stevent@rivercarestudio.com,Valid,(860) 555-0161,+18605550161,,,,Hartford,CT,06118,US,Trade Show,2025-07-16,306,
+C-0276,Tyler,Martin,Regional Director,Pacific Wellness Group LLC,tyler.martin@pacificwellnessgroup.com,Valid,(206) 555-0191,+12065550191,,(206) 555-0188,+12065550188,Seattle,WA,98105,US,Google Ads,2025-12-29,307,
+C-0277,Jason,Moore,Office Manager,Sunrise Vision Associates LLC,jason.moore@sunrisevisionassociates.com,Valid,(860) 555-0173,+18605550173,,,,Hartford,CT,06151,US,Referral,2026-09-27,308,
+C-0278,Patricia,O'Brien,Director of Operations,North Vision Studio,patricia.obrien@northvisionstudio.com,Valid,(310) 555-0177,+13105550177,,,,Los Angeles,CA,90041,US,Website Form,2025-03-24,309,
+C-0279,Chloe,Nguyen,Operations Coordinator,Crescent Ortho Center LLC,chloe.nguyen@crescentorthocenter.com,Valid,(973) 555-0156,+19735550156,,(973) 555-0175,+19735550175,Newark,NJ,07179,US,Website Form,2026-09-18,"310, 435","Merged records #435, #310"
+C-0280,Sarah,Jackson,Regional Director,Willow Smile Center Inc.,sarah.jackson@willowsmilecenter.com,Valid,,,,(206) 555-0123,+12065550123,Seattle,WA,98154,US,Referral,2026-03-07,311,
+C-0281,Marcus,Scott,Regional Director,Crescent Physio Center LLC,mscott@crescentphysiocenter.com,Valid,,,,,,Atlanta,GA,30361,US,Trade Show,2025-12-16,313,No phone on file
+C-0282,Ashley,Lopez,Office Manager,Evergreen Ortho Studio LLC,ashley.lopez@evergreenorthostudio.com,Valid,(206) 555-0168,+12065550168,,(206) 555-0105,+12065550105,Seattle,WA,98189,US,Referral,2026-10-17,"314, 477","Merged records #314, #477"
+C-0283,Colin,Thompson,Operations Coordinator,North Physio Associates LLC,colin.thompson@northphysioassociates.com,Valid,,,,,,Denver,CO,80232,US,Cold Outreach,2025-10-18,315,No phone on file
+C-0284,Trevor,Allen,Practice Manager,River Care Studio Inc.,tallen@rivercarestudio.com,Valid,,,,(860) 555-0118,+18605550118,Hartford,CT,06116,US,LinkedIn,2026-10-03,316,
+C-0285,David,Miller,Office Manager,Blue Dental Partners LLC,,Missing,,,,(512) 555-0106,+15125550106,Austin,TX,78798,US,Trade Show,2026-06-22,318,No email on file
+C-0286,Colin,McKenzie,Chief Operating Officer,Willow Care Group Inc.,colinm@willowcaregroup.com,Valid,(212) 555-0189,+12125550189,,,,New York,NY,10070,US,Google Ads,2025-08-12,319,
+C-0287,Daniel,Torres,Regional Director,Bright Wellness Studio,danielt@brightwellnessstudio.com,Valid,(602) 555-0112,+16025550112,243,,,Phoenix,AZ,85001,US,Google Ads,2025-05-29,320,
+C-0288,Carlos,Miller,VP of Operations,River Care Studio Inc.,carlosm@rivercarestudio.com,Valid,(860) 555-0100,+18605550100,,,,Hartford,CT,06183,US,Trade Show,2026-05-05,323,
+C-0289,Adrian,Brown,Front Desk Lead,Sunrise Wellness Collective Inc.,abrown@sunrisewellnesscollective.com,Valid,,,,(860) 555-0179,+18605550179,Hartford,CT,06160,US,Google Ads,2026-01-09,"326, 446","Merged records #446, #326"
+C-0290,Jessica,Nguyen,Marketing Manager,Golden Ortho Group Inc.,jnguyen@goldenorthogroup.com,Valid,(503) 555-0129,+15035550129,,,,Portland,OR,97284,US,Referral,2026-08-08,327,
+C-0291,David,Hernandez,Owner,Lakeside Vision Studio Inc.,dhernandez@lakesidevisionstudio.com,Valid,(512) 555-0143,+15125550143,,,,Austin,TX,78756,US,LinkedIn,2025-11-20,329,
+C-0292,Nancy,Williams,Billing Manager,Evergreen Dental Collective Inc.,nancyw@evergreendentalcollective.com,Valid,(212) 555-0143,+12125550143,,,,New York,NY,10094,US,Referral,2026-06-14,331,
+C-0293,Diego,Lewis,CEO,Silver Physio Collective LLC,dlewis@silverphysiocollective.com,Valid,(404) 555-0135,+14045550135,424,(404) 555-0192,+14045550192,Atlanta,GA,30384,US,Trade Show,2026-09-23,333,
+C-0294,Megan,Wright,Office Manager,Willow Vision Partners LLC,megan.wright@willowvisionpartners.com,Valid,(305) 555-0168,+13055550168,,(305) 555-0147,+13055550147,Miami,FL,33196,US,Cold Outreach,2025-07-16,334,
+C-0295,Julia,McKenzie,Chief Operating Officer,Golden Vision Center LLC,juliamgoldenvisioncenter.com,Invalid - verify with client,(404) 555-0175,+14045550175,,(404) 555-0189,+14045550189,Atlanta,GA,30372,US,Referral,2026-08-01,335,Email needs verification
+C-0296,Julia,Green,Billing Manager,Pine Ortho Collective Inc.,julia.green@pineorthocollective.com,Valid,(303) 555-0157,+13035550157,216,(303) 555-0195,+13035550195,Denver,CO,80252,US,Website Form,2026-07-26,336,
+C-0297,Omar,Mitchell,Front Desk Lead,North Vision Studio,omar.mitchell@northvisionstudio.com,Valid,(310) 555-0148,+13105550148,360,,,Los Angeles,CA,90093,US,Referral,2026-05-11,337,
+C-0298,Robert,Wood,Marketing Coordinator,Cedar Care Center,rwood@cedarcarecenter.com,Valid,,,,,,Austin,TX,78747,US,Trade Show,2025-03-29,338,No phone on file
+C-0299,Diego,Flores,Marketing Coordinator,Blue Dental Partners LLC,dflores@bluedentalpartners.com,Valid,(512) 555-0195,+15125550195,,,,Austin,TX,78752,US,Google Ads,2026-06-10,341,
+C-0300,Diego,Lewis,VP of Marketing,Pacific Wellness Collective Inc.,diego.lewis@pacificwellnesscollective.com,Valid,(206) 555-0198,+12065550198,375,,,Seattle,WA,98110,US,LinkedIn,2026-03-30,343,
+C-0301,Jennifer,Green,Chief Operating Officer,Blue Wellness Associates LLC,jgreen@bluewellnessassociates.com,Valid,(305) 555-0169,+13055550169,,,,Miami,FL,33196,US,Website Form,2026-03-29,345,
+C-0302,Karen,Nelson,VP of Operations,Lakeside Family Health Associates LLC,karenn@lakesidefamilyhealthassociates.com,Valid,(212) 555-0137,+12125550137,,(212) 555-0165,+12125550165,New York,NY,10012,US,Referral,2026-02-27,347,
+C-0303,Tyler,Harris,Billing Manager,River Wellness Associates,tharris@riverwellnessassociates.com,Valid,(310) 555-0105,+13105550105,,,,Los Angeles,CA,90051,US,LinkedIn,2026-03-18,348,
+C-0304,Joshua,Hall,Office Manager,Golden Ortho Partners,joshuah@goldenorthopartners.com,Valid,,,,,,Atlanta,GA,30397,US,Google Ads,2026-01-22,"349, 377","Merged records #349, #377; No phone on file"
+C-0305,Camila,Thompson,Front Desk Lead,Blue Dental Partners LLC,camila.thompson@bluedentalpartners.com,Valid,(512) 555-0101,+15125550101,,,,Austin,TX,78753,US,Website Form,2026-03-02,350,
+C-0306,Luis,Harris,Regional Director,Bright Wellness Studio,luis.harris@brightwellnessstudio.com,Valid,,,,,,Phoenix,AZ,85015,US,Google Ads,2026-06-16,351,No phone on file
+C-0307,Luis,Hill,Marketing Coordinator,Bright Dental Associates Inc.,luis.hill@brightdentalassociates.com,Valid,(973) 555-0176,+19735550176,,(973) 555-0155,+19735550155,Newark,NJ,07132,US,Website Form,2025-04-05,352,
+C-0308,James,Miller,Front Desk Lead,Harbor Wellness Group Inc.,james.miller@@harborwellnessgroup.com,Invalid - verify with client,(305) 555-0195,+13055550195,,,,Miami,FL,33128,US,Trade Show,2026-01-20,353,Email needs verification
+C-0309,David,Sullivan,VP of Marketing,North Care Partners,davids@northcarepartners.com,Valid,(602) 555-0141,+16025550141,,(602) 555-0114,+16025550114,Phoenix,AZ,85062,US,Cold Outreach,2026-10-18,354,
+C-0310,Patricia,Miller,VP of Operations,Pine Ortho Center LLC,patricia.miller@pineorthocenter.com,Valid,(310) 555-0110,+13105550110,,,,Los Angeles,CA,90029,US,Referral,2025-10-19,355,
+C-0311,Priya,Flores,Front Desk Lead,Evergreen Care Center Inc.,priyaf@evergreencarecenter.com,Valid,(973) 555-0167,+19735550167,,(973) 555-0164,+19735550164,Newark,NJ,07189,US,Website Form,2026-07-20,357,
+C-0312,Hiroshi,Scott,Operations Coordinator,River Dental Collective LLC,hiroshis@riverdentalcollective.com,Valid,(214) 555-0113,+12145550113,,(214) 555-0100,+12145550100,Dallas,TX,75279,US,Trade Show,2025-12-05,359,
+C-0313,Aisha,Campbell,Operations Coordinator,Blue Dental Center Inc.,aisha.campbell@bluedentalcenter.com,Valid,(512) 555-0189,+15125550189,,(512) 555-0138,+15125550138,Austin,TX,78768,US,Trade Show,2025-09-05,360,
+C-0314,Jessica,Taylor,Marketing Coordinator,Willow Smile Center Inc.,,Missing,(206) 555-0132,+12065550132,207,,,Seattle,WA,98156,US,Google Ads,2026-03-07,361,No email on file
+C-0315,Brooke,Rivera,Senior Marketing Manager,Sunrise Dental Group LLC,brooke.rivera@sunrisedentalgroup.com,Valid,(973) 555-0111,+19735550111,,,,Newark,NJ,07115,US,Website Form,2026-04-19,362,
+C-0316,Natalie,McKenzie,Director of Operations,Willow Care Group Inc.,natalie.mckenzie@willowcaregroup.com,Valid,(212) 555-0129,+12125550129,,(212) 555-0125,+12125550125,New York,NY,10074,US,Website Form,2025-06-10,363,
+C-0317,Steven,Roberts,Chief Operating Officer,River Smile Partners Inc.,steven.roberts@riversmilepartners.com,Valid,(503) 555-0156,+15035550156,,,,Portland,OR,97266,US,Trade Show,2026-03-01,364,
+C-0318,James,Harris,Director of Operations,Harbor Family Health Center LLC,jharris@harborfamilyhealthcenter.com,Valid,(503) 555-0102,+15035550102,,(503) 555-0106,+15035550106,Portland,OR,97267,US,Website Form,2025-03-08,365,
+C-0319,Colin,Scott,Chief Operating Officer,Blue Wellness Associates LLC,colin.scott@bluewellnessassociates.com,Valid,(305) 555-0160,+13055550160,,,,Miami,FL,33147,US,LinkedIn,2026-03-01,366,
+C-0320,Linda,Brown,VP of Marketing,Sunrise Wellness Center,linda.brown@sunrisewellnesscenter.com,Valid,(310) 555-0183,+13105550183,,,,Los Angeles,CA,90013,US,Trade Show,2025-05-19,367,
+C-0321,Sofia,Kim,Senior Marketing Manager,North Physio Associates LLC,sofiak@northphysioassociates.com,Valid,(303) 555-0114,+13035550114,,(303) 555-0105,+13035550105,Denver,CO,80222,US,Website Form,2025-07-27,368,
+C-0322,Brian,McKenzie,CEO,Blue Wellness Associates LLC,brian.mckenzie@bluewellnessassociates.com,Valid,(305) 555-0106,+13055550106,,,,Miami,FL,33163,US,Trade Show,2025-04-27,369,
+C-0323,Eric,Kim,Front Desk Lead,Silver Smile Center LLC,ERIC.KIM@@SILVERSMILECENTER.COM,Invalid - verify with client,(212) 555-0157,+12125550157,411,,,New York,NY,10084,US,Cold Outreach,2025-11-06,370,Email needs verification
+C-0324,Jason,Clark,CEO,Willow Physio Partners,jasonc@willowphysiopartners.com,Valid,(404) 555-0156,+14045550156,,,,Atlanta,GA,30357,US,Referral,2026-07-02,"372, 434","Merged records #434, #372"
+C-0325,Eric,Jones,Practice Manager,Harbor Wellness Center Inc.,ejones@harborwellnesscenter.com,Valid,(503) 555-0140,+15035550140,,(503) 555-0113,+15035550113,Portland,OR,97248,US,Referral,2025-03-19,373,
+C-0326,Brooke,Miller,Billing Manager,Cedar Care Center,bmiller@cedarcarecenter.com,Valid,(512) 555-0193,+15125550193,293,(512) 555-0135,+15125550135,Austin,TX,78776,US,Cold Outreach,2026-09-16,374,
+C-0327,Hiroshi,Torres,Marketing Manager,Willow Dental Center LLC,hiroshit@willowdentalcenter.com,Valid,(305) 555-0154,+13055550154,,(305) 555-0145,+13055550145,Miami,FL,33123,US,Google Ads,2025-03-30,"375, 410","Merged records #410, #375"
+C-0328,Adrian,Chen,Billing Manager,Harbor Smile Partners LLC,adrian.chen@harborsmilepartners.com,Valid,(212) 555-0162,+12125550162,126,,,New York,NY,10017,US,LinkedIn,2026-03-31,376,
+C-0329,Derek,Clark,Chief Operating Officer,Cedar Physio Partners LLC,dclark@cedarphysiopartners.com,Valid,,,,(404) 555-0182,+14045550182,Atlanta,GA,30307,US,Trade Show,2025-10-11,378,
+C-0330,Kevin,Ross,Operations Coordinator,Lakeside Smile Partners Inc.,kevinr@lakesidesmilepartners.com,Valid,(503) 555-0192,+15035550192,,(503) 555-0103,+15035550103,Portland,OR,97222,US,LinkedIn,2025-08-09,379,
+C-0331,Brian,White,CEO,Maple Smile Group Inc.,brianw@maplesmilegroup.com,Valid,(512) 555-0187,+15125550187,,,,Austin,TX,78785,US,LinkedIn,2026-06-05,380,
+C-0332,Andrew,Johnson,Senior Marketing Manager,Crescent Vision Group LLC,ajohnson@crescentvisiongroup.com,Valid,(312) 555-0196,+13125550196,,,,Chicago,IL,60609,US,LinkedIn,2025-06-17,381,
+C-0333,Sofia,Thompson,Practice Manager,Willow Smile Studio LLC,sofiat@willowsmilestudio.com,Valid,(206) 555-0199,+12065550199,,,,Seattle,WA,98158,US,Google Ads,2026-01-03,382,
+C-0334,Karen,Lewis,Marketing Manager,Lakeside Smile Partners Inc.,karenl@lakesidesmilepartners.com,Valid,(503) 555-0105,+15035550105,,,,Portland,OR,97275,US,Google Ads,2026-07-28,384,
+C-0335,Nathan,King,Chief Operating Officer,Sunrise Wellness Center,nathan.king@sunrisewellnesscenter.com,Valid,(310) 555-0129,+13105550129,284,(310) 555-0124,+13105550124,Los Angeles,CA,90097,US,Google Ads,2025-07-10,385,
+C-0336,Hiroshi,Miller,Chief Operating Officer,River Wellness Partners,hiroshi.miller@riverwellnesspartners.com,Valid,(860) 555-0133,+18605550133,72,(860) 555-0132,+18605550132,Hartford,CT,06144,US,Google Ads,2026-09-14,386,
+C-0337,Hannah,Davis,Billing Manager,Willow Wellness Center LLC,hannah.davis@willowwellnesscenter.com,Valid,(512) 555-0192,+15125550192,252,,,Austin,TX,78733,US,Google Ads,2026-08-17,387,
+C-0338,Grace,Bennett,Owner,Pacific Wellness Collective Inc.,graceb@pacificwellnesscollective.com,Valid,(206) 555-0154,+12065550154,205,,,Seattle,WA,98118,US,Website Form,2025-02-28,"388, 390","Merged records #390, #388"
+C-0339,Eric,Lewis,Marketing Manager,Oak Dental Group,elewis@oakdentalgroup.com,Valid,(602) 555-0160,+16025550160,,,,Phoenix,AZ,85080,US,Website Form,2025-11-06,389,
+C-0340,Anthony,Sullivan,Senior Marketing Manager,North Care Partners,anthony.sullivan@northcarepartners.com,Valid,,,,,,Phoenix,AZ,85079,US,Cold Outreach,2026-10-22,391,No phone on file
+C-0341,Robert,O'Brien,Owner,Oak Physio Center LLC,robert.obrien@oakphysiocenter.com,Valid,,,,(617) 555-0183,+16175550183,Boston,MA,02136,US,Google Ads,2026-09-05,393,
+C-0342,Omar,Lee,Operations Coordinator,Harbor Ortho Center,olee@harbororthocenter.com,Valid,,,,(602) 555-0197,+16025550197,Phoenix,AZ,85077,US,Cold Outreach,2026-09-27,395,
+C-0343,Sarah,Allen,Front Desk Lead,Summit Dental Group,,Missing,,,,(305) 555-0192,+13055550192,Miami,FL,33101,US,LinkedIn,2026-01-05,396,No email on file
+C-0344,Olivia,Baker,Senior Marketing Manager,Crescent Care Collective,OLIVIAB@@CRESCENTCARECOLLECTIVE.COM,Invalid - verify with client,(214) 555-0178,+12145550178,,(214) 555-0126,+12145550126,Dallas,TX,75207,US,Cold Outreach,2025-12-27,397,Email needs verification
+C-0345,Chloe,Rivera,Billing Manager,Cedar Physio Partners LLC,chloe.rivera@cedarphysiopartners.com,Valid,(404) 555-0172,+14045550172,,(404) 555-0119,+14045550119,Atlanta,GA,30347,US,LinkedIn,2026-04-01,399,
+C-0346,Joshua,Adams,Regional Director,Pine Ortho Collective Inc.,joshua.adams@pineorthocollective.com,Valid,(303) 555-0154,+13035550154,,,,Denver,CO,80225,US,Trade Show,2026-05-11,400,
+C-0347,Emily,Clark,VP of Marketing,Harbor Vision Collective,emilyc@harborvisioncollective.com,Valid,(602) 555-0182,+16025550182,,(602) 555-0175,+16025550175,Phoenix,AZ,85009,US,Website Form,2025-03-09,401,
+C-0348,Megan,Thompson,Front Desk Lead,Willow Vision Partners LLC,mthompson@willowvisionpartners.com,Valid,(305) 555-0100,+13055550100,391,,,Miami,FL,33174,US,Website Form,2025-03-17,402,
+C-0349,Rachel,Kim,Regional Director,Blue Dental Partners LLC,rachelk@bluedentalpartners.com,Valid,(512) 555-0144,+15125550144,222,,,Austin,TX,78710,US,Website Form,2025-05-27,404,
+C-0350,Nancy,Davis,Regional Director,Cedar Physio Partners LLC,ndavis@cedarphysiopartners.com,Valid,(404) 555-0181,+14045550181,438,,,Atlanta,GA,30363,US,Cold Outreach,2026-07-04,405,
+C-0351,Julia,Flores,Billing Manager,River Dental Collective LLC,jflores@riverdentalcollective.com,Valid,,,,,,Dallas,TX,75211,US,Referral,2025-12-31,406,No phone on file
+C-0352,Elizabeth,Taylor,CEO,Maple Smile Group Inc.,etaylor@maplesmilegroup.com,Valid,(512) 555-0125,+15125550125,,(512) 555-0119,+15125550119,Austin,TX,78709,US,Referral,2026-10-07,408,
+C-0353,Lauren,Torres,CEO,Sunrise Wellness Center,ltorres@sunrisewellnesscenter.com,Valid,(310) 555-0187,+13105550187,,(310) 555-0136,+13105550136,Los Angeles,CA,90048,US,Trade Show,2025-02-02,409,
+C-0354,Ryan,Torres,CEO,Cedar Physio Center LLC,ryant@cedarphysiocenter.com,Valid,(973) 555-0120,+19735550120,,,,Newark,NJ,07132,US,Website Form,2026-10-20,412,
+C-0355,Elizabeth,Hernandez,Marketing Manager,Lakeside Family Health Associates LLC,elizabeth.hernandez@lakesidefamilyhealthassociates.com,Valid,,,,(212) 555-0187,+12125550187,New York,NY,10091,US,Cold Outreach,2026-05-17,414,
+C-0356,Carlos,Sullivan,Regional Director,Harbor Vision Collective,carlos.sullivan@harborvisioncollective.com,Valid,(602) 555-0143,+16025550143,,,,Phoenix,AZ,85018,US,Referral,2026-02-12,415,
+C-0357,Omar,Hall,Operations Coordinator,Willow Wellness Studio LLC,omar.hall@willowwellnessstudio.com,Valid,(206) 555-0157,+12065550157,,(206) 555-0111,+12065550111,Seattle,WA,98135,US,Google Ads,2026-01-14,416,
+C-0358,Nathan,Moore,Marketing Manager,North Vision Studio,nathanm@northvisionstudio.com,Valid,(310) 555-0131,+13105550131,,(310) 555-0138,+13105550138,Los Angeles,CA,90038,US,LinkedIn,2025-08-02,"417, 557","Merged records #417, #557"
+C-0359,Grace,Garcia,Marketing Coordinator,Evergreen Ortho Studio LLC,grace.garcia@evergreenorthostudio.com,Valid,,,,,,Seattle,WA,98112,US,Trade Show,2025-06-21,419,No phone on file
+C-0360,Ashley,Miller,Practice Manager,Golden Vision Center LLC,amiller@goldenvisioncenter.com,Valid,(404) 555-0139,+14045550139,105,(404) 555-0134,+14045550134,Atlanta,GA,30355,US,Trade Show,2026-07-26,421,
+C-0361,Elizabeth,Rodriguez,Director of Operations,Blue Vision Collective,erodriguez@bluevisioncollective.com,Valid,(404) 555-0160,+14045550160,,,,Atlanta,GA,30360,US,Trade Show,2026-09-24,422,
+C-0362,Hiroshi,Roberts,Marketing Manager,Golden Vision Center LLC,hiroshi.roberts@goldenvisioncenter.com,Valid,,,,(404) 555-0108,+14045550108,Atlanta,GA,30380,US,Google Ads,2025-10-23,424,
+C-0363,Jessica,McKenzie,Owner,Pine Care Partners,jessica.mckenzie@pinecarepartners.com,Valid,(310) 555-0175,+13105550175,,,,Los Angeles,CA,90012,US,Referral,2025-11-01,425,
+C-0364,Chloe,Foster,Owner,Blue Ortho Partners Inc.,cfoster@blueorthopartners.com,Valid,(512) 555-0136,+15125550136,,(512) 555-0176,+15125550176,Austin,TX,78729,US,Cold Outreach,2025-06-24,426,
+C-0365,Vanessa,Baker,VP of Operations,Summit Dental Group,vanessa.baker@summitdentalgroup.com,Valid,(305) 555-0120,+13055550120,,,,Miami,FL,33140,US,Referral,2025-06-14,427,
+C-0366,Luis,Sullivan,Billing Manager,Sunrise Wellness Collective Inc.,luiss@sunrisewellnesscollective.com,Valid,(860) 555-0103,+18605550103,,(860) 555-0177,+18605550177,Hartford,CT,06104,US,Referral,2025-03-11,428,
+C-0367,Megan,Wilson,VP of Operations,North Physio Associates LLC,meganw@northphysioassociates.com,Valid,(303) 555-0176,+13035550176,,(303) 555-0193,+13035550193,Denver,CO,80211,US,Trade Show,2026-07-25,429,
+C-0368,Jason,Lopez,Operations Coordinator,Harbor Vision Group,jlopez@harborvisiongroup.com,Valid,(860) 555-0193,+18605550193,,,,Hartford,CT,06148,US,Trade Show,2026-01-23,430,
+C-0369,Elizabeth,White,Billing Manager,Crescent Ortho Center LLC,elizabeth.white@crescentorthocenter.com,Valid,(973) 555-0148,+19735550148,,,,Newark,NJ,07180,US,Google Ads,2025-08-22,432,
+C-0370,David,King,Senior Marketing Manager,Lakeside Family Health Center,dking@lakesidefamilyhealthcenter.com,Valid,(212) 555-0117,+12125550117,,(212) 555-0107,+12125550107,New York,NY,10028,US,Referral,2025-07-23,433,
+C-0371,Vanessa,McKenzie,Senior Marketing Manager,Blue Dental Partners LLC,vmckenzie@bluedentalpartners.com,Valid,(512) 555-0158,+15125550158,,,,Austin,TX,78754,US,Cold Outreach,2026-02-20,436,
+C-0372,Rachel,Brown,Owner,Bright Wellness Studio,rachel.brown@brightwellnessstudio.com,Valid,(602) 555-0147,+16025550147,,,,Phoenix,AZ,85015,US,Google Ads,2025-02-02,438,
+C-0373,Diego,Mitchell,Office Manager,Sunrise Wellness Collective Inc.,dmitchell@sunrisewellnesscollective.com,Valid,(860) 555-0109,+18605550109,,(860) 555-0108,+18605550108,Hartford,CT,06105,US,Website Form,2026-02-13,"439, 522","Merged records #439, #522"
+C-0374,Ryan,Foster,Regional Director,Lakeside Vision Associates LLC,ryanf@lakesidevisionassociates.com,Valid,,,,(973) 555-0129,+19735550129,Newark,NJ,07103,US,Cold Outreach,2026-07-30,440,
+C-0375,Mei,Green,Chief Operating Officer,Summit Care Partners LLC,mei.green@summitcarepartners.com,Valid,,,,(602) 555-0120,+16025550120,Phoenix,AZ,85029,US,LinkedIn,2025-11-22,441,
+C-0376,Luis,McKenzie,Chief Operating Officer,Blue Family Health Studio LLC,lmckenzie@bluefamilyhealthstudio.com,Valid,,,,(303) 555-0153,+13035550153,Denver,CO,80264,US,LinkedIn,2025-01-04,442,
+C-0377,Emily,Bennett,CEO,Willow Dental Collective,emilyb@willowdentalcollective.com,Valid,(212) 555-0173,+12125550173,,,,New York,NY,10079,US,Referral,2025-05-05,443,
+C-0378,Colin,Walker,VP of Marketing,Blue Care Studio LLC,colin.walker@bluecarestudio.com,Valid,(973) 555-0107,+19735550107,,,,Newark,NJ,07193,US,Website Form,2025-11-09,444,
+C-0379,David,Torres,Director of Operations,Lakeside Vision Associates LLC,dtorres@lakesidevisionassociates.com,Valid,(973) 555-0172,+19735550172,,(973) 555-0184,+19735550184,Newark,NJ,07133,US,LinkedIn,2026-02-08,445,
+C-0380,Sofia,Baker,Chief Operating Officer,North Physio Collective LLC,sofia.baker@northphysiocollective.com,Valid,,,,(305) 555-0188,+13055550188,Miami,FL,33127,US,Trade Show,2026-04-02,447,
+C-0381,Priya,Baker,Senior Marketing Manager,Lakeside Vision Associates LLC,pbaker@lakesidevisionassociates.com,Valid,(973) 555-0124,+19735550124,,,,Newark,NJ,07167,US,LinkedIn,2026-03-01,448,
+C-0382,Olivia,Lopez,Chief Operating Officer,Crescent Care Collective,olopez@crescentcarecollective.com,Valid,(214) 555-0180,+12145550180,,,,Dallas,TX,75200,US,Trade Show,2025-10-09,449,
+C-0383,Brian,Patel,Practice Manager,River Smile Partners Inc.,brian.patel@riversmilepartners.com,Valid,(503) 555-0182,+15035550182,,(503) 555-0198,+15035550198,Portland,OR,97229,US,Cold Outreach,2025-02-09,450,
+C-0384,Daniel,Martinez,Owner,Crescent Ortho Center LLC,dmartinez@crescentorthocenter.com,Valid,(973) 555-0112,+19735550112,,,,Newark,NJ,07167,US,Website Form,2025-12-12,451,
+C-0385,Karen,Young,CEO,Crescent Ortho Center LLC,karen.young@crescentorthocenter.com,Valid,(973) 555-0143,+19735550143,,,,Newark,NJ,07121,US,Trade Show,2025-05-12,452,
+C-0386,Chloe,Green,Front Desk Lead,Maple Wellness Partners LLC,chloe.green@maplewellnesspartners.com,Valid,(860) 555-0198,+18605550198,,,,Hartford,CT,06163,US,Google Ads,2026-07-14,454,
+C-0387,Andrew,Chen,Marketing Coordinator,River Dental Collective LLC,andrew.chen@riverdentalcollective.com,Valid,(214) 555-0172,+12145550172,,(214) 555-0112,+12145550112,Dallas,TX,75227,US,LinkedIn,2026-05-04,455,
+C-0388,Omar,Carter,Operations Coordinator,Bright Wellness Studio,ocarter@brightwellnessstudio.com,Valid,(602) 555-0156,+16025550156,,(602) 555-0119,+16025550119,Phoenix,AZ,85052,US,Cold Outreach,2026-09-20,456,
+C-0389,Megan,O'Brien,Practice Manager,Willow Care Group Inc.,mobrien@willowcaregroup.com,Valid,(212) 555-0111,+12125550111,,,,New York,NY,10077,US,Website Form,2025-11-14,459,
+C-0390,Ashley,Thomas,VP of Operations,Willow Smile Center Inc.,athomas@willowsmilecenter.com,Valid,(206) 555-0146,+12065550146,342,(206) 555-0158,+12065550158,Seattle,WA,98141,US,Website Form,2026-06-19,460,
+C-0391,Trevor,Martin,Regional Director,Evergreen Care Center Inc.,trevor.martin@evergreencarecenter.com,Valid,(973) 555-0128,+19735550128,,,,Newark,NJ,07195,US,Cold Outreach,2026-01-19,461,
+C-0392,Aisha,Nelson,Chief Operating Officer,Cedar Dental Partners LLC,aishan@cedardentalpartners.com,Valid,(303) 555-0187,+13035550187,,(303) 555-0108,+13035550108,Denver,CO,80281,US,LinkedIn,2025-10-12,462,
+C-0393,Ashley,Hernandez,CEO,River Physio Studio LLC,ashleyh@riverphysiostudio.com,Valid,(503) 555-0195,+15035550195,,,,Portland,OR,97239,US,Website Form,2026-08-17,463,
+C-0394,Olivia,Clark,VP of Operations,Bright Vision Center LLC,oclark@brightvisioncenter.com,Valid,,,,(214) 555-0170,+12145550170,Dallas,TX,75264,US,Referral,2026-08-11,464,
+C-0395,Sofia,Hayes,VP of Operations,Golden Vision Center LLC,sofiah@goldenvisioncenter.com,Valid,(404) 555-0123,+14045550123,,(404) 555-0171,+14045550171,Atlanta,GA,30305,US,Referral,2026-06-28,465,
+C-0396,Anthony,Chen,Operations Coordinator,Blue Family Health Studio LLC,achen@bluefamilyhealthstudio.com,Valid,(303) 555-0124,+13035550124,,(303) 555-0171,+13035550171,Denver,CO,80220,US,Google Ads,2026-02-05,466,
+C-0397,Sarah,Green,Marketing Coordinator,Evergreen Family Health Associates,sarah.green@evergreenfamilyhealthassociates.com,Valid,(303) 555-0169,+13035550169,362,(303) 555-0196,+13035550196,Denver,CO,80292,US,Website Form,2026-05-29,467,
+C-0398,Aisha,Lee,Practice Manager,Sunrise Family Health Associates,aisha.lee@sunrisefamilyhealthassociates.com,Valid,(312) 555-0187,+13125550187,,(312) 555-0158,+13125550158,Chicago,IL,60620,US,Trade Show,2026-03-03,468,
+C-0399,Jennifer,Garcia,Office Manager,Evergreen Vision Partners Inc.,jgarcia@evergreenvisionpartners.com,Valid,(860) 555-0190,+18605550190,,,,Hartford,CT,06141,US,Referral,2025-04-05,469,
+C-0400,Grace,Campbell,Marketing Coordinator,Evergreen Physio Group Inc.,gracec@evergreenphysiogroup.com,Valid,(973) 555-0101,+19735550101,264,,,Newark,NJ,07144,US,Cold Outreach,2026-06-15,470,
+C-0401,Tyler,Miller,Director of Operations,Oak Dental Group,tylerm@oakdentalgroup.com,Valid,(602) 555-0179,+16025550179,,,,Phoenix,AZ,85013,US,Cold Outreach,2026-09-26,471,
+C-0402,Adrian,O'Brien,Practice Manager,Pine Smile Partners LLC,adriano@pinesmilepartners.com,Valid,(305) 555-0131,+13055550131,,,,Miami,FL,33157,US,Referral,2026-04-22,472,
+C-0403,Aisha,McKenzie,Director of Operations,River Dental Collective LLC,aisha.mckenzie@riverdentalcollective.com,Valid,(214) 555-0193,+12145550193,289,,,Dallas,TX,75262,US,Referral,2026-07-11,473,
+C-0404,Olivia,Ross,Billing Manager,Summit Vision Center,oross@summitvisioncenter.com,Valid,(973) 555-0106,+19735550106,,,,Newark,NJ,07184,US,LinkedIn,2026-05-19,476,
+C-0405,Brian,Rodriguez,VP of Operations,Maple Ortho Partners,brianr@mapleorthopartners.com,Valid,,,,(512) 555-0164,+15125550164,Austin,TX,78734,US,Referral,2025-09-22,478,
+C-0406,Sofia,Kim,Marketing Manager,Harbor Physio Associates LLC,skim@harborphysioassociates.com,Valid,(617) 555-0169,+16175550169,,,,Boston,MA,02152,US,Website Form,2025-08-28,479,
+C-0407,Nathan,Chen,Office Manager,Summit Vision Center,nchen@summitvisioncenter.com,Valid,(973) 555-0196,+19735550196,,,,Newark,NJ,07150,US,Website Form,2026-07-12,480,
+C-0408,Joshua,Thomas,Marketing Coordinator,North Vision Studio,joshuat@northvisionstudio.com,Valid,(310) 555-0132,+13105550132,,,,Los Angeles,CA,90087,US,Referral,2026-10-07,482,
+C-0409,Natalie,Hall,Chief Operating Officer,Silver Vision Collective,nhall@silvervisioncollective.com,Valid,(303) 555-0101,+13035550101,336,(303) 555-0158,+13035550158,Denver,CO,80285,US,Cold Outreach,2026-05-11,483,
+C-0410,Ethan,Foster,VP of Operations,Maple Ortho Partners,efoster@mapleorthopartners.com,Valid,(512) 555-0184,+15125550184,,,,Austin,TX,78749,US,Trade Show,2026-09-17,"484, 574","Merged records #484, #574"
+C-0411,Trevor,Green,VP of Marketing,Blue Dental Center Inc.,trevorg@bluedentalcenter.com,Valid,(512) 555-0103,+15125550103,251,(512) 555-0199,+15125550199,Austin,TX,78767,US,LinkedIn,2026-08-23,"485, 535","Merged records #535, #485"
+C-0412,Mark,Anderson,Operations Coordinator,Willow Smile Studio LLC,mark.anderson@willowsmilestudio.com,Valid,(206) 555-0166,+12065550166,,,,Seattle,WA,98100,US,Cold Outreach,2026-01-20,486,
+C-0413,Karen,Jackson,Front Desk Lead,Willow Ortho Studio Inc.,karen.jackson@willoworthostudio.com,Valid,,,,(214) 555-0179,+12145550179,Dallas,TX,75231,US,Google Ads,2025-10-31,487,
+C-0414,Brooke,Nelson,Owner,Cedar Ortho Partners,bnelson@cedarorthopartners.com,Valid,(305) 555-0118,+13055550118,,,,Miami,FL,33122,US,Website Form,2025-01-28,"488, 577","Merged records #577, #488"
+C-0415,Hiroshi,Thompson,Front Desk Lead,Lakeside Care Studio Inc.,hiroshit@lakesidecarestudio.com,Valid,(312) 555-0145,+13125550145,,,,Chicago,IL,60685,US,Google Ads,2026-03-05,490,
+C-0416,Sarah,Hall,Front Desk Lead,Oak Care Partners Inc.,sarah.hall@oakcarepartners.com,Valid,(206) 555-0121,+12065550121,414,,,Seattle,WA,98131,US,Website Form,2025-02-14,491,
+C-0417,Robert,Harris,Marketing Coordinator,Silver Vision Collective,roberth@silvervisioncollective.com,Valid,(303) 555-0199,+13035550199,,,,Denver,CO,80223,US,Referral,2025-03-07,492,
+C-0418,Lisa,Young,Front Desk Lead,Pine Ortho Collective Inc.,lisay@pineorthocollective.com,Valid,,,,(303) 555-0141,+13035550141,Denver,CO,80288,US,Referral,2026-05-07,495,
+C-0419,Chloe,Hernandez,VP of Operations,Willow Wellness Center LLC,chernandez@willowwellnesscenter.com,Valid,(512) 555-0167,+15125550167,,,,Austin,TX,78744,US,Google Ads,2026-10-24,496,
+C-0420,Camila,Brown,Regional Director,Evergreen Ortho Studio LLC,camila.brown@evergreenorthostudio.com,Valid,(206) 555-0187,+12065550187,,,,Seattle,WA,98130,US,Trade Show,2025-11-04,497,
+C-0421,Hiroshi,Walker,Director of Operations,Silver Ortho Group,hiroshi.walker@silverorthogroup.com,Valid,(212) 555-0102,+12125550102,,,,New York,NY,10079,US,Trade Show,2026-01-07,499,
+C-0422,Robert,Robinson,CEO,Crescent Wellness Associates LLC,robert.robinson@crescentwellnessassociates.com,Valid,(305) 555-0127,+13055550127,267,,,Miami,FL,33137,US,Referral,2026-08-14,501,
+C-0423,Nancy,King,Practice Manager,Golden Ortho Group Inc.,nancy.king@goldenorthogroup.com,Valid,(503) 555-0147,+15035550147,,,,Portland,OR,97211,US,Cold Outreach,2026-09-02,504,
+C-0424,Steven,Hall,Director of Operations,Crescent Care Associates,stevenh@crescentcareassociates.com,Valid,(512) 555-0168,+15125550168,,,,Austin,TX,78739,US,Website Form,2026-06-09,505,
+C-0425,Lisa,Scott,Chief Operating Officer,North Ortho Collective,lisa.scott@northorthocollective.com,Valid,(602) 555-0144,+16025550144,,,,Phoenix,AZ,85030,US,Cold Outreach,2025-10-11,506,
+C-0426,Ethan,Lee,Regional Director,Harbor Vision Group,ethanl@harborvisiongroup.com,Valid,(860) 555-0184,+18605550184,,(860) 555-0119,+18605550119,Hartford,CT,06144,US,LinkedIn,2026-07-21,"507, 560","Merged records #560, #507"
+C-0427,Daniel,O'Brien,VP of Marketing,Bright Vision Center LLC,dobrien@brightvisioncenter.com,Valid,,,,,,Dallas,TX,75259,US,Google Ads,2026-07-13,508,No phone on file
+C-0428,Jason,Price,Marketing Manager,Summit Dental Collective,,Missing,(602) 555-0135,+16025550135,,(602) 555-0153,+16025550153,Phoenix,AZ,85067,US,Referral,2026-10-09,510,No email on file
+C-0429,Victor,Hall,Operations Coordinator,Lakeside Smile Partners Inc.,victorh@lakesidesmilepartners.com,Valid,(503) 555-0142,+15035550142,,(503) 555-0186,+15035550186,Portland,OR,97292,US,Google Ads,2026-09-11,511,
+C-0430,Jennifer,Miller,Director of Operations,Crescent Wellness Associates LLC,jmiller@crescentwellnessassociates.com,Valid,(305) 555-0117,+13055550117,,,,Miami,FL,33156,US,Cold Outreach,2025-10-03,512,
+C-0431,Marcus,Torres,Front Desk Lead,Harbor Physio Collective Inc.,mtorres@harborphysiocollective.com,Valid,(214) 555-0114,+12145550114,,(214) 555-0186,+12145550186,Dallas,TX,75285,US,LinkedIn,2025-02-17,513,
+C-0432,Sarah,Harris,Office Manager,River Care Studio Inc.,sarah.harris@rivercarestudio.com,Valid,(860) 555-0186,+18605550186,,(860) 555-0122,+18605550122,Hartford,CT,06157,US,Cold Outreach,2026-07-19,514,
+C-0433,Brooke,Torres,Billing Manager,Cedar Care Center,,Missing,(512) 555-0107,+15125550107,,,,Austin,TX,78792,US,Website Form,2026-02-11,515,No email on file
+C-0434,Brian,Taylor,Chief Operating Officer,Crescent Wellness Associates LLC,briant@crescentwellnessassociates.com,Valid,(305) 555-0126,+13055550126,,(305) 555-0179,+13055550179,Miami,FL,33113,US,Website Form,2025-03-23,516,
+C-0435,Brian,Wilson,Marketing Coordinator,Summit Care Center LLC,bwilson@summitcarecenter.com,Valid,,,,(312) 555-0124,+13125550124,Chicago,IL,60643,US,Website Form,2026-03-02,517,
+C-0436,Kevin,Jackson,Practice Manager,Pine Ortho Center LLC,kevin.jackson@pineorthocenter.com,Valid,,,,(310) 555-0155,+13105550155,Los Angeles,CA,90028,US,Trade Show,2025-12-25,518,
+C-0437,Karen,Chen,Operations Coordinator,Evergreen Care Center Inc.,karen.chen@evergreencarecenter.com,Valid,(973) 555-0145,+19735550145,,,,Newark,NJ,07187,US,Cold Outreach,2026-01-26,519,
+C-0438,Jessica,Young,VP of Marketing,Golden Ortho Partners,jyoung@goldenorthopartners.com,Valid,(404) 555-0183,+14045550183,,,,Atlanta,GA,30304,US,Trade Show,2025-09-28,"520, 567","Merged records #520, #567"
+C-0439,Jessica,Carter,VP of Marketing,River Smile Partners Inc.,jessica.carter@riversmilepartners.com,Valid,(503) 555-0119,+15035550119,,(503) 555-0174,+15035550174,Portland,OR,97268,US,Trade Show,2026-08-03,521,
+C-0440,Ashley,Torres,Regional Director,Pine Ortho Center LLC,ashleyt@pineorthocenter.com,Valid,(310) 555-0130,+13105550130,,(310) 555-0134,+13105550134,Los Angeles,CA,90012,US,Website Form,2025-10-26,523,
+C-0441,Megan,Jackson,Billing Manager,Harbor Ortho Center,meganj@harbororthocenter.com,Valid,(602) 555-0191,+16025550191,243,,,Phoenix,AZ,85065,US,LinkedIn,2025-02-27,524,
+C-0442,Hannah,Carter,Office Manager,Oak Physio Center LLC,hannah.carter@oakphysiocenter.com,Valid,(617) 555-0142,+16175550142,,,,Boston,MA,02134,US,LinkedIn,2025-01-22,526,
+C-0443,Priya,Hill,Marketing Manager,Cedar Ortho Studio Inc.,priyah@cedarorthostudio.com,Valid,(305) 555-0199,+13055550199,,,,Miami,FL,33122,US,Google Ads,2025-03-19,527,
+C-0444,Olivia,White,Director of Operations,Silver Vision Collective,olivia.white@silvervisioncollective.com,Valid,(303) 555-0177,+13035550177,,,,Denver,CO,80278,US,LinkedIn,2025-06-17,528,
+C-0445,Victor,Carter,CEO,North Ortho Partners,vcarter@northorthopartners.com,Valid,(617) 555-0165,+16175550165,,(617) 555-0143,+16175550143,Boston,MA,02189,US,Google Ads,2025-02-24,530,
+C-0446,Robert,Ross,Office Manager,Pine Ortho Collective Inc.,rross@pineorthocollective.com,Valid,(303) 555-0147,+13035550147,,(303) 555-0194,+13035550194,Denver,CO,80279,US,Referral,2025-10-23,531,
+C-0447,Nancy,Green,Senior Marketing Manager,Cedar Wellness Partners LLC,nancy.green@cedarwellnesspartners.com,Valid,(206) 555-0150,+12065550150,,,,Seattle,WA,98115,US,Google Ads,2025-08-25,532,
+C-0448,Anthony,Lewis,Billing Manager,Willow Wellness Center LLC,anthonyl@willowwellnesscenter.com,Valid,,,,(512) 555-0183,+15125550183,Austin,TX,78743,US,LinkedIn,2026-05-17,533,
+C-0449,Maria,Brooks,CEO,Oak Dental Studio LLC,mariab@oakdentalstudio.com,Valid,(303) 555-0174,+13035550174,,,,Denver,CO,80204,US,Cold Outreach,2025-09-25,536,
+C-0450,Ryan,Taylor,Senior Marketing Manager,Silver Vision Collective,ryan.taylor@silvervisioncollective.com,Valid,(303) 555-0110,+13035550110,,,,Denver,CO,80268,US,Google Ads,2025-07-16,538,
+C-0451,Colin,Walker,Practice Manager,North Vision Collective Inc.,colin.walker@northvisioncollective.com,Valid,,,,(602) 555-0148,+16025550148,Phoenix,AZ,85061,US,Cold Outreach,2025-08-20,539,
+C-0452,Patricia,Mitchell,Practice Manager,Golden Physio Collective,patriciam@goldenphysiocollective.com,Valid,,,,(404) 555-0144,+14045550144,Atlanta,GA,30322,US,Cold Outreach,2026-02-08,540,
+C-0453,Ana,Rivera,Operations Coordinator,Silver Smile Center LLC,ana.rivera@silversmilecenter.com,Valid,,,,(212) 555-0174,+12125550174,New York,NY,10081,US,Trade Show,2025-04-05,542,
+C-0454,Patricia,Wright,Operations Coordinator,Harbor Smile Partners LLC,patriciaw@harborsmilepartners.com,Valid,(212) 555-0170,+12125550170,,(212) 555-0110,+12125550110,New York,NY,10099,US,Google Ads,2025-05-15,544,
+C-0455,Jennifer,Price,Owner,Pine Dental Center,jennifer.price@pinedentalcenter.com,Valid,(512) 555-0108,+15125550108,,(512) 555-0186,+15125550186,Austin,TX,78773,US,Google Ads,2026-08-03,545,
+C-0456,Karen,Anderson,Billing Manager,Maple Wellness Partners LLC,kanderson@maplewellnesspartners.com,Valid,(860) 555-0191,+18605550191,,,,Hartford,CT,06142,US,Google Ads,2025-04-28,546,
+C-0457,Diego,Walker,Front Desk Lead,Sunrise Vision Associates LLC,diego.walker@sunrisevisionassociates.com,Valid,(860) 555-0195,+18605550195,,,,Hartford,CT,06166,US,Website Form,2026-01-21,"547, 573","Merged records #547, #573"
+C-0458,James,Hall,Senior Marketing Manager,Lakeside Family Health Associates LLC,jhall@lakesidefamilyhealthassociates.com,Valid,(212) 555-0180,+12125550180,,,,New York,NY,10013,US,Referral,2026-07-06,548,
+C-0459,Hannah,Reyes,Billing Manager,Evergreen Ortho Studio LLC,hannahr@evergreenorthostudio.com,Valid,(206) 555-0102,+12065550102,,,,Seattle,WA,98173,US,Website Form,2025-06-30,549,
+C-0460,Kevin,Miller,CEO,Evergreen Ortho Studio LLC,kmiller@evergreenorthostudio.com,Valid,(206) 555-0134,+12065550134,,,,Seattle,WA,98107,US,Referral,2026-08-14,550,
+C-0461,Brooke,Hall,Marketing Coordinator,Harbor Smile Studio Inc.,brookeh@harborsmilestudio.com,Valid,(512) 555-0156,+15125550156,161,(512) 555-0146,+15125550146,Austin,TX,78741,US,Google Ads,2026-03-03,551,
+C-0462,Kevin,Lopez,Senior Marketing Manager,Willow Wellness Studio LLC,klopez@willowwellnessstudio.com,Valid,(206) 555-0124,+12065550124,394,(206) 555-0172,+12065550172,Seattle,WA,98170,US,Trade Show,2026-10-24,552,
+C-0463,Chloe,Carter,VP of Marketing,Harbor Vision Group,ccarter@harborvisiongroup.com,Valid,,,,,,Hartford,CT,06126,US,Cold Outreach,2026-09-15,553,No phone on file
+C-0464,Sofia,Johnson,Marketing Coordinator,River Wellness Associates,sjohnson@riverwellnessassociates.com,Valid,(310) 555-0152,+13105550152,,(310) 555-0167,+13105550167,Los Angeles,CA,90036,US,Website Form,2026-05-31,554,
+C-0465,Brian,Nguyen,Owner,Harbor Physio Associates LLC,bnguyen@harborphysioassociates.com,Valid,(617) 555-0108,+16175550108,,,,Boston,MA,02171,US,Cold Outreach,2025-12-24,555,
+C-0466,Lisa,Thompson,Director of Operations,Bright Dental Associates Inc.,lisat@brightdentalassociates.com,Valid,(973) 555-0119,+19735550119,,(973) 555-0188,+19735550188,Newark,NJ,07108,US,Trade Show,2026-02-23,556,
+C-0467,Nancy,Hernandez,Regional Director,Harbor Physio Associates LLC,nhernandez@harborphysioassociates.com,Valid,,,,(617) 555-0137,+16175550137,Boston,MA,02193,US,Cold Outreach,2026-09-04,558,
+C-0468,Chloe,Baker,Director of Operations,Willow Dental Collective,chloe.baker@willowdentalcollective.com,Valid,(212) 555-0191,+12125550191,,(212) 555-0134,+12125550134,New York,NY,10081,US,Referral,2026-02-04,562,
+C-0469,Emily,Johnson,Front Desk Lead,Harbor Ortho Center,ejohnson@harbororthocenter.com,Valid,(602) 555-0116,+16025550116,,(602) 555-0102,+16025550102,Phoenix,AZ,85015,US,LinkedIn,2025-02-09,564,
+C-0470,Brooke,Nelson,Senior Marketing Manager,River Dental Collective LLC,brooke.nelson@riverdentalcollective.com,Valid,,,,,,Dallas,TX,75203,US,Website Form,2025-02-17,565,No phone on file
+C-0471,Jason,Price,CEO,Maple Ortho Partners,jprice@mapleorthopartners.com,Valid,,,,(512) 555-0150,+15125550150,Austin,TX,78763,US,Referral,2025-10-25,566,
+C-0472,Lauren,Patel,Owner,Harbor Smile Partners LLC,laurenp@harborsmilepartners.com,Valid,(212) 555-0182,+12125550182,,(212) 555-0140,+12125550140,New York,NY,10096,US,LinkedIn,2026-03-27,569,
+C-0473,Mark,McKenzie,Marketing Coordinator,River Smile Partners Inc.,mark.mckenzie@riversmilepartners.com,Valid,(503) 555-0168,+15035550168,,(503) 555-0171,+15035550171,Portland,OR,97213,US,Cold Outreach,2026-08-25,570,
+C-0474,Maria,Price,Marketing Manager,Evergreen Care Center Inc.,mariap@evergreencarecenter.com,Valid,(973) 555-0136,+19735550136,,,,Newark,NJ,07160,US,Trade Show,2025-06-25,572,
+C-0475,Lisa,Carter,Owner,Pacific Family Health Studio,lcarter@pacificfamilyhealthstudio.com,Valid,(212) 555-0160,+12125550160,,(212) 555-0194,+12125550194,New York,NY,10069,US,Cold Outreach,2025-09-23,576,
+C-0476,Mark,Lewis,VP of Operations,Cedar Vision Associates LLC,mlewis@cedarvisionassociates.com,Valid,(860) 555-0144,+18605550144,94,(860) 555-0164,+18605550164,Hartford,CT,06129,US,Website Form,2026-06-12,579,
+C-0477,Andrew,Rodriguez,Billing Manager,River Wellness Center,arodriguez@riverwellnesscenter.com,Valid,(860) 555-0181,+18605550181,,,,Hartford,CT,06190,US,Cold Outreach,2026-09-22,580,
+C-0478,Omar,Wood,Director of Operations,Willow Vision Partners LLC,owood@willowvisionpartners.com,Valid,(305) 555-0141,+13055550141,,,,Miami,FL,33188,US,Google Ads,2026-08-15,581,
+C-0479,Jason,Allen,Marketing Coordinator,Evergreen Smile Studio LLC,jasona@evergreensmilestudio.com,Valid,(303) 555-0137,+13035550137,,(303) 555-0136,+13035550136,Denver,CO,80258,US,Website Form,2025-08-29,582,
+C-0480,Nathan,Mitchell,Owner,Maple Smile Group Inc.,nathan.mitchell@maplesmilegroup.com,Valid,(512) 555-0122,+15125550122,108,(512) 555-0112,+15125550112,Austin,TX,78779,US,Cold Outreach,2025-09-17,583,
